@@ -1,0 +1,2082 @@
+[
+    {
+        "": "0",
+        "Date": "1970-03-31",
+        "Real Potential GDP (CBO)": "5304.11",
+        "Potential GDP Grwth (CBO)": "",
+        "Real Potential GDP (Estimated)": "5304.11",
+        "Potential GDP Grwth (Estimated)": ""
+    },
+    {
+        "": "1",
+        "Date": "1970-06-30",
+        "Real Potential GDP (CBO)": "5347.16",
+        "Potential GDP Grwth (CBO)": "",
+        "Real Potential GDP (Estimated)": "5347.16",
+        "Potential GDP Grwth (Estimated)": ""
+    },
+    {
+        "": "2",
+        "Date": "1970-09-30",
+        "Real Potential GDP (CBO)": "5389.22",
+        "Potential GDP Grwth (CBO)": "",
+        "Real Potential GDP (Estimated)": "5389.22",
+        "Potential GDP Grwth (Estimated)": ""
+    },
+    {
+        "": "3",
+        "Date": "1970-12-31",
+        "Real Potential GDP (CBO)": "5431.18",
+        "Potential GDP Grwth (CBO)": "",
+        "Real Potential GDP (Estimated)": "5431.18",
+        "Potential GDP Grwth (Estimated)": ""
+    },
+    {
+        "": "4",
+        "Date": "1971-03-31",
+        "Real Potential GDP (CBO)": "5474.81",
+        "Potential GDP Grwth (CBO)": "0.03218259048172101",
+        "Real Potential GDP (Estimated)": "5474.81",
+        "Potential GDP Grwth (Estimated)": "0.03218259048172101"
+    },
+    {
+        "": "5",
+        "Date": "1971-06-30",
+        "Real Potential GDP (CBO)": "5521.26",
+        "Potential GDP Grwth (CBO)": "0.032559339911280016",
+        "Real Potential GDP (Estimated)": "5521.26",
+        "Potential GDP Grwth (Estimated)": "0.032559339911280016"
+    },
+    {
+        "": "6",
+        "Date": "1971-09-30",
+        "Real Potential GDP (CBO)": "5569.21",
+        "Potential GDP Grwth (CBO)": "0.033398154092800114",
+        "Real Potential GDP (Estimated)": "5569.21",
+        "Potential GDP Grwth (Estimated)": "0.033398154092800114"
+    },
+    {
+        "": "7",
+        "Date": "1971-12-31",
+        "Real Potential GDP (CBO)": "5617.29",
+        "Potential GDP Grwth (CBO)": "0.03426695487905018",
+        "Real Potential GDP (Estimated)": "5617.29",
+        "Potential GDP Grwth (Estimated)": "0.03426695487905018"
+    },
+    {
+        "": "8",
+        "Date": "1972-03-31",
+        "Real Potential GDP (CBO)": "5664.23",
+        "Potential GDP Grwth (CBO)": "0.03459846095115604",
+        "Real Potential GDP (Estimated)": "5664.23",
+        "Potential GDP Grwth (Estimated)": "0.03459846095115604"
+    },
+    {
+        "": "9",
+        "Date": "1972-06-30",
+        "Real Potential GDP (CBO)": "5708.98",
+        "Potential GDP Grwth (CBO)": "0.03399948562465793",
+        "Real Potential GDP (Estimated)": "5708.98",
+        "Potential GDP Grwth (Estimated)": "0.03399948562465793"
+    },
+    {
+        "": "10",
+        "Date": "1972-09-30",
+        "Real Potential GDP (CBO)": "5752.47",
+        "Potential GDP Grwth (CBO)": "0.03290592382043411",
+        "Real Potential GDP (Estimated)": "5752.47",
+        "Potential GDP Grwth (Estimated)": "0.03290592382043411"
+    },
+    {
+        "": "11",
+        "Date": "1972-12-31",
+        "Real Potential GDP (CBO)": "5795.9",
+        "Potential GDP Grwth (CBO)": "0.03179647125215168",
+        "Real Potential GDP (Estimated)": "5795.9",
+        "Potential GDP Grwth (Estimated)": "0.03179647125215168"
+    },
+    {
+        "": "12",
+        "Date": "1973-03-31",
+        "Real Potential GDP (CBO)": "5840.77",
+        "Potential GDP Grwth (CBO)": "0.03116751968052167",
+        "Real Potential GDP (Estimated)": "5840.77",
+        "Potential GDP Grwth (Estimated)": "0.03116751968052167"
+    },
+    {
+        "": "13",
+        "Date": "1973-06-30",
+        "Real Potential GDP (CBO)": "5889.11",
+        "Potential GDP Grwth (CBO)": "0.03155204607478046",
+        "Real Potential GDP (Estimated)": "5889.11",
+        "Potential GDP Grwth (Estimated)": "0.03155204607478046"
+    },
+    {
+        "": "14",
+        "Date": "1973-09-30",
+        "Real Potential GDP (CBO)": "5939.08",
+        "Potential GDP Grwth (CBO)": "0.03243997795729481",
+        "Real Potential GDP (Estimated)": "5939.08",
+        "Potential GDP Grwth (Estimated)": "0.03243997795729481"
+    },
+    {
+        "": "15",
+        "Date": "1973-12-31",
+        "Real Potential GDP (CBO)": "5990.69",
+        "Potential GDP Grwth (CBO)": "0.03360824030780374",
+        "Real Potential GDP (Estimated)": "5990.69",
+        "Potential GDP Grwth (Estimated)": "0.03360824030780374"
+    },
+    {
+        "": "16",
+        "Date": "1974-03-31",
+        "Real Potential GDP (CBO)": "6043.07",
+        "Potential GDP Grwth (CBO)": "0.034635844246563297",
+        "Real Potential GDP (Estimated)": "6043.07",
+        "Potential GDP Grwth (Estimated)": "0.034635844246563297"
+    },
+    {
+        "": "17",
+        "Date": "1974-06-30",
+        "Real Potential GDP (CBO)": "6095.65",
+        "Potential GDP Grwth (CBO)": "0.03507151335261183",
+        "Real Potential GDP (Estimated)": "6095.65",
+        "Potential GDP Grwth (Estimated)": "0.03507151335261183"
+    },
+    {
+        "": "18",
+        "Date": "1974-09-30",
+        "Real Potential GDP (CBO)": "6147.35",
+        "Potential GDP Grwth (CBO)": "0.03506772092647359",
+        "Real Potential GDP (Estimated)": "6147.35",
+        "Potential GDP Grwth (Estimated)": "0.03506772092647359"
+    },
+    {
+        "": "19",
+        "Date": "1974-12-31",
+        "Real Potential GDP (CBO)": "6198.47",
+        "Potential GDP Grwth (CBO)": "0.03468381772383489",
+        "Real Potential GDP (Estimated)": "6198.47",
+        "Potential GDP Grwth (Estimated)": "0.03468381772383489"
+    },
+    {
+        "": "20",
+        "Date": "1975-03-31",
+        "Real Potential GDP (CBO)": "6248.57",
+        "Potential GDP Grwth (CBO)": "0.03400589435502144",
+        "Real Potential GDP (Estimated)": "6248.57",
+        "Potential GDP Grwth (Estimated)": "0.03400589435502144"
+    },
+    {
+        "": "21",
+        "Date": "1975-06-30",
+        "Real Potential GDP (CBO)": "6298.08",
+        "Potential GDP Grwth (CBO)": "0.033208927677934375",
+        "Real Potential GDP (Estimated)": "6298.08",
+        "Potential GDP Grwth (Estimated)": "0.033208927677934375"
+    },
+    {
+        "": "22",
+        "Date": "1975-09-30",
+        "Real Potential GDP (CBO)": "6347.32",
+        "Potential GDP Grwth (CBO)": "0.0325294639153455",
+        "Real Potential GDP (Estimated)": "6347.32",
+        "Potential GDP Grwth (Estimated)": "0.0325294639153455"
+    },
+    {
+        "": "23",
+        "Date": "1975-12-31",
+        "Real Potential GDP (CBO)": "6396.55",
+        "Potential GDP Grwth (CBO)": "0.031956273080292474",
+        "Real Potential GDP (Estimated)": "6396.55",
+        "Potential GDP Grwth (Estimated)": "0.031956273080292474"
+    },
+    {
+        "": "24",
+        "Date": "1976-03-31",
+        "Real Potential GDP (CBO)": "6445.22",
+        "Potential GDP Grwth (CBO)": "0.031471200610699857",
+        "Real Potential GDP (Estimated)": "6445.22",
+        "Potential GDP Grwth (Estimated)": "0.031471200610699857"
+    },
+    {
+        "": "25",
+        "Date": "1976-06-30",
+        "Real Potential GDP (CBO)": "6494.05",
+        "Potential GDP Grwth (CBO)": "0.031115832126616505",
+        "Real Potential GDP (Estimated)": "6494.05",
+        "Potential GDP Grwth (Estimated)": "0.031115832126616505"
+    },
+    {
+        "": "26",
+        "Date": "1976-09-30",
+        "Real Potential GDP (CBO)": "6543.99",
+        "Potential GDP Grwth (CBO)": "0.030984730563450524",
+        "Real Potential GDP (Estimated)": "6543.99",
+        "Potential GDP Grwth (Estimated)": "0.030984730563450524"
+    },
+    {
+        "": "27",
+        "Date": "1976-12-31",
+        "Real Potential GDP (CBO)": "6594.55",
+        "Potential GDP Grwth (CBO)": "0.03095418624102053",
+        "Real Potential GDP (Estimated)": "6594.55",
+        "Potential GDP Grwth (Estimated)": "0.03095418624102053"
+    },
+    {
+        "": "28",
+        "Date": "1977-03-31",
+        "Real Potential GDP (CBO)": "6647.1",
+        "Potential GDP Grwth (CBO)": "0.031322437403222825",
+        "Real Potential GDP (Estimated)": "6647.1",
+        "Potential GDP Grwth (Estimated)": "0.031322437403222825"
+    },
+    {
+        "": "29",
+        "Date": "1977-06-30",
+        "Real Potential GDP (CBO)": "6701.32",
+        "Potential GDP Grwth (CBO)": "0.03191690855475393",
+        "Real Potential GDP (Estimated)": "6701.32",
+        "Potential GDP Grwth (Estimated)": "0.03191690855475393"
+    },
+    {
+        "": "30",
+        "Date": "1977-09-30",
+        "Real Potential GDP (CBO)": "6756.7",
+        "Potential GDP Grwth (CBO)": "0.032504634022973766",
+        "Real Potential GDP (Estimated)": "6756.7",
+        "Potential GDP Grwth (Estimated)": "0.032504634022973766"
+    },
+    {
+        "": "31",
+        "Date": "1977-12-31",
+        "Real Potential GDP (CBO)": "6813.75",
+        "Potential GDP Grwth (CBO)": "0.03323956903806935",
+        "Real Potential GDP (Estimated)": "6813.75",
+        "Potential GDP Grwth (Estimated)": "0.03323956903806935"
+    },
+    {
+        "": "32",
+        "Date": "1978-03-31",
+        "Real Potential GDP (CBO)": "6872.16",
+        "Potential GDP Grwth (CBO)": "0.03385837432865446",
+        "Real Potential GDP (Estimated)": "6872.16",
+        "Potential GDP Grwth (Estimated)": "0.03385837432865446"
+    },
+    {
+        "": "33",
+        "Date": "1978-06-30",
+        "Real Potential GDP (CBO)": "6931.51",
+        "Potential GDP Grwth (CBO)": "0.03434994896527854",
+        "Real Potential GDP (Estimated)": "6931.51",
+        "Potential GDP Grwth (Estimated)": "0.03434994896527854"
+    },
+    {
+        "": "34",
+        "Date": "1978-09-30",
+        "Real Potential GDP (CBO)": "6992.32",
+        "Potential GDP Grwth (CBO)": "0.034872052925244645",
+        "Real Potential GDP (Estimated)": "6992.32",
+        "Potential GDP Grwth (Estimated)": "0.034872052925244645"
+    },
+    {
+        "": "35",
+        "Date": "1978-12-31",
+        "Real Potential GDP (CBO)": "7054.42",
+        "Potential GDP Grwth (CBO)": "0.03532122546321781",
+        "Real Potential GDP (Estimated)": "7054.42",
+        "Potential GDP Grwth (Estimated)": "0.03532122546321781"
+    },
+    {
+        "": "36",
+        "Date": "1979-03-31",
+        "Real Potential GDP (CBO)": "7118.64",
+        "Potential GDP Grwth (CBO)": "0.03586645246909281",
+        "Real Potential GDP (Estimated)": "7118.64",
+        "Potential GDP Grwth (Estimated)": "0.03586645246909281"
+    },
+    {
+        "": "37",
+        "Date": "1979-06-30",
+        "Real Potential GDP (CBO)": "7181.21",
+        "Potential GDP Grwth (CBO)": "0.03602389666897965",
+        "Real Potential GDP (Estimated)": "7181.21",
+        "Potential GDP Grwth (Estimated)": "0.03602389666897965"
+    },
+    {
+        "": "38",
+        "Date": "1979-09-30",
+        "Real Potential GDP (CBO)": "7240.76",
+        "Potential GDP Grwth (CBO)": "0.035530410507528254",
+        "Real Potential GDP (Estimated)": "7240.76",
+        "Potential GDP Grwth (Estimated)": "0.035530410507528254"
+    },
+    {
+        "": "39",
+        "Date": "1979-12-31",
+        "Real Potential GDP (CBO)": "7296.32",
+        "Potential GDP Grwth (CBO)": "0.03429055825992777",
+        "Real Potential GDP (Estimated)": "7296.32",
+        "Potential GDP Grwth (Estimated)": "0.03429055825992777"
+    },
+    {
+        "": "40",
+        "Date": "1980-03-31",
+        "Real Potential GDP (CBO)": "7346.67",
+        "Potential GDP Grwth (CBO)": "0.0320328040187452",
+        "Real Potential GDP (Estimated)": "7346.67",
+        "Potential GDP Grwth (Estimated)": "0.0320328040187452"
+    },
+    {
+        "": "41",
+        "Date": "1980-06-30",
+        "Real Potential GDP (CBO)": "7390.96",
+        "Potential GDP Grwth (CBO)": "0.02920816965386064",
+        "Real Potential GDP (Estimated)": "7390.96",
+        "Potential GDP Grwth (Estimated)": "0.02920816965386064"
+    },
+    {
+        "": "42",
+        "Date": "1980-09-30",
+        "Real Potential GDP (CBO)": "7429.33",
+        "Potential GDP Grwth (CBO)": "0.02604284633104803",
+        "Real Potential GDP (Estimated)": "7429.33",
+        "Potential GDP Grwth (Estimated)": "0.02604284633104803"
+    },
+    {
+        "": "43",
+        "Date": "1980-12-31",
+        "Real Potential GDP (CBO)": "7469.45",
+        "Potential GDP Grwth (CBO)": "0.023728400070172295",
+        "Real Potential GDP (Estimated)": "7469.45",
+        "Potential GDP Grwth (Estimated)": "0.023728400070172295"
+    },
+    {
+        "": "44",
+        "Date": "1981-03-31",
+        "Real Potential GDP (CBO)": "7511.53",
+        "Potential GDP Grwth (CBO)": "0.022440098711388856",
+        "Real Potential GDP (Estimated)": "7511.53",
+        "Potential GDP Grwth (Estimated)": "0.022440098711388856"
+    },
+    {
+        "": "45",
+        "Date": "1981-06-30",
+        "Real Potential GDP (CBO)": "7559.95",
+        "Potential GDP Grwth (CBO)": "0.022864418154069366",
+        "Real Potential GDP (Estimated)": "7559.95",
+        "Potential GDP Grwth (Estimated)": "0.022864418154069366"
+    },
+    {
+        "": "46",
+        "Date": "1981-09-30",
+        "Real Potential GDP (CBO)": "7611.29",
+        "Potential GDP Grwth (CBO)": "0.02449211436293708",
+        "Real Potential GDP (Estimated)": "7611.29",
+        "Potential GDP Grwth (Estimated)": "0.02449211436293708"
+    },
+    {
+        "": "47",
+        "Date": "1981-12-31",
+        "Real Potential GDP (CBO)": "7665.53",
+        "Potential GDP Grwth (CBO)": "0.026250928783243754",
+        "Real Potential GDP (Estimated)": "7665.53",
+        "Potential GDP Grwth (Estimated)": "0.026250928783243754"
+    },
+    {
+        "": "48",
+        "Date": "1982-03-31",
+        "Real Potential GDP (CBO)": "7721.91",
+        "Potential GDP Grwth (CBO)": "0.0280076096347881",
+        "Real Potential GDP (Estimated)": "7721.91",
+        "Potential GDP Grwth (Estimated)": "0.0280076096347881"
+    },
+    {
+        "": "49",
+        "Date": "1982-06-30",
+        "Real Potential GDP (CBO)": "7779.81",
+        "Potential GDP Grwth (CBO)": "0.02908220292462249",
+        "Real Potential GDP (Estimated)": "7779.81",
+        "Potential GDP Grwth (Estimated)": "0.02908220292462249"
+    },
+    {
+        "": "50",
+        "Date": "1982-09-30",
+        "Real Potential GDP (CBO)": "7838.94",
+        "Potential GDP Grwth (CBO)": "0.029909515995317326",
+        "Real Potential GDP (Estimated)": "7838.94",
+        "Potential GDP Grwth (Estimated)": "0.029909515995317326"
+    },
+    {
+        "": "51",
+        "Date": "1982-12-31",
+        "Real Potential GDP (CBO)": "7899.41",
+        "Potential GDP Grwth (CBO)": "0.030510610486163436",
+        "Real Potential GDP (Estimated)": "7899.41",
+        "Potential GDP Grwth (Estimated)": "0.030510610486163436"
+    },
+    {
+        "": "52",
+        "Date": "1983-03-31",
+        "Real Potential GDP (CBO)": "7959.81",
+        "Potential GDP Grwth (CBO)": "0.030808439880806837",
+        "Real Potential GDP (Estimated)": "7959.81",
+        "Potential GDP Grwth (Estimated)": "0.030808439880806837"
+    },
+    {
+        "": "53",
+        "Date": "1983-06-30",
+        "Real Potential GDP (CBO)": "8021.82",
+        "Potential GDP Grwth (CBO)": "0.03110744349797745",
+        "Real Potential GDP (Estimated)": "8021.82",
+        "Potential GDP Grwth (Estimated)": "0.03110744349797745"
+    },
+    {
+        "": "54",
+        "Date": "1983-09-30",
+        "Real Potential GDP (CBO)": "8085.77",
+        "Potential GDP Grwth (CBO)": "0.03148767562961319",
+        "Real Potential GDP (Estimated)": "8085.77",
+        "Potential GDP Grwth (Estimated)": "0.03148767562961319"
+    },
+    {
+        "": "55",
+        "Date": "1983-12-31",
+        "Real Potential GDP (CBO)": "8152.48",
+        "Potential GDP Grwth (CBO)": "0.03203656981977132",
+        "Real Potential GDP (Estimated)": "8152.48",
+        "Potential GDP Grwth (Estimated)": "0.03203656981977132"
+    },
+    {
+        "": "56",
+        "Date": "1984-03-31",
+        "Real Potential GDP (CBO)": "8221.97",
+        "Potential GDP Grwth (CBO)": "0.03293545951473709",
+        "Real Potential GDP (Estimated)": "8221.97",
+        "Potential GDP Grwth (Estimated)": "0.03293545951473709"
+    },
+    {
+        "": "57",
+        "Date": "1984-06-30",
+        "Real Potential GDP (CBO)": "8294.28",
+        "Potential GDP Grwth (CBO)": "0.033964860842053524",
+        "Real Potential GDP (Estimated)": "8294.28",
+        "Potential GDP Grwth (Estimated)": "0.033964860842053524"
+    },
+    {
+        "": "58",
+        "Date": "1984-09-30",
+        "Real Potential GDP (CBO)": "8368.5",
+        "Potential GDP Grwth (CBO)": "0.0349663668395217",
+        "Real Potential GDP (Estimated)": "8368.5",
+        "Potential GDP Grwth (Estimated)": "0.0349663668395217"
+    },
+    {
+        "": "59",
+        "Date": "1984-12-31",
+        "Real Potential GDP (CBO)": "8444.17",
+        "Potential GDP Grwth (CBO)": "0.03577929660667678",
+        "Real Potential GDP (Estimated)": "8444.17",
+        "Potential GDP Grwth (Estimated)": "0.03577929660667678"
+    },
+    {
+        "": "60",
+        "Date": "1985-03-31",
+        "Real Potential GDP (CBO)": "8520.48",
+        "Potential GDP Grwth (CBO)": "0.036306383993130575",
+        "Real Potential GDP (Estimated)": "8520.48",
+        "Potential GDP Grwth (Estimated)": "0.036306383993130575"
+    },
+    {
+        "": "61",
+        "Date": "1985-06-30",
+        "Real Potential GDP (CBO)": "8597.27",
+        "Potential GDP Grwth (CBO)": "0.0365299941646533",
+        "Real Potential GDP (Estimated)": "8597.27",
+        "Potential GDP Grwth (Estimated)": "0.0365299941646533"
+    },
+    {
+        "": "62",
+        "Date": "1985-09-30",
+        "Real Potential GDP (CBO)": "8674.08",
+        "Potential GDP Grwth (CBO)": "0.03651550457071151",
+        "Real Potential GDP (Estimated)": "8674.08",
+        "Potential GDP Grwth (Estimated)": "0.03651550457071151"
+    },
+    {
+        "": "63",
+        "Date": "1985-12-31",
+        "Real Potential GDP (CBO)": "8750.5",
+        "Potential GDP Grwth (CBO)": "0.03627710005838347",
+        "Real Potential GDP (Estimated)": "8750.5",
+        "Potential GDP Grwth (Estimated)": "0.03627710005838347"
+    },
+    {
+        "": "64",
+        "Date": "1986-03-31",
+        "Real Potential GDP (CBO)": "8826.28",
+        "Potential GDP Grwth (CBO)": "0.03588999680769178",
+        "Real Potential GDP (Estimated)": "8826.28",
+        "Potential GDP Grwth (Estimated)": "0.03588999680769178"
+    },
+    {
+        "": "65",
+        "Date": "1986-06-30",
+        "Real Potential GDP (CBO)": "8901.54",
+        "Potential GDP Grwth (CBO)": "0.03539146729136111",
+        "Real Potential GDP (Estimated)": "8901.54",
+        "Potential GDP Grwth (Estimated)": "0.03539146729136111"
+    },
+    {
+        "": "66",
+        "Date": "1986-09-30",
+        "Real Potential GDP (CBO)": "8976.62",
+        "Potential GDP Grwth (CBO)": "0.03487862689760779",
+        "Real Potential GDP (Estimated)": "8976.62",
+        "Potential GDP Grwth (Estimated)": "0.03487862689760779"
+    },
+    {
+        "": "67",
+        "Date": "1986-12-31",
+        "Real Potential GDP (CBO)": "9051.36",
+        "Potential GDP Grwth (CBO)": "0.03438203531226791",
+        "Real Potential GDP (Estimated)": "9051.36",
+        "Potential GDP Grwth (Estimated)": "0.03438203531226791"
+    },
+    {
+        "": "68",
+        "Date": "1987-03-31",
+        "Real Potential GDP (CBO)": "9125.66",
+        "Potential GDP Grwth (CBO)": "0.033919159600647175",
+        "Real Potential GDP (Estimated)": "9125.66",
+        "Potential GDP Grwth (Estimated)": "0.033919159600647175"
+    },
+    {
+        "": "69",
+        "Date": "1987-06-30",
+        "Real Potential GDP (CBO)": "9199.49",
+        "Potential GDP Grwth (CBO)": "0.03347173635123801",
+        "Real Potential GDP (Estimated)": "9199.49",
+        "Potential GDP Grwth (Estimated)": "0.03347173635123801"
+    },
+    {
+        "": "70",
+        "Date": "1987-09-30",
+        "Real Potential GDP (CBO)": "9272.95",
+        "Potential GDP Grwth (CBO)": "0.033011311607264116",
+        "Real Potential GDP (Estimated)": "9272.95",
+        "Potential GDP Grwth (Estimated)": "0.033011311607264116"
+    },
+    {
+        "": "71",
+        "Date": "1987-12-31",
+        "Real Potential GDP (CBO)": "9346.74",
+        "Potential GDP Grwth (CBO)": "0.03263376995280254",
+        "Real Potential GDP (Estimated)": "9346.74",
+        "Potential GDP Grwth (Estimated)": "0.03263376995280254"
+    },
+    {
+        "": "72",
+        "Date": "1988-03-31",
+        "Real Potential GDP (CBO)": "9420.2",
+        "Potential GDP Grwth (CBO)": "0.03227602167952792",
+        "Real Potential GDP (Estimated)": "9420.2",
+        "Potential GDP Grwth (Estimated)": "0.03227602167952792"
+    },
+    {
+        "": "73",
+        "Date": "1988-06-30",
+        "Real Potential GDP (CBO)": "9494.15",
+        "Potential GDP Grwth (CBO)": "0.03203003644767266",
+        "Real Potential GDP (Estimated)": "9494.15",
+        "Potential GDP Grwth (Estimated)": "0.03203003644767266"
+    },
+    {
+        "": "74",
+        "Date": "1988-09-30",
+        "Real Potential GDP (CBO)": "9568.25",
+        "Potential GDP Grwth (CBO)": "0.031845313519430096",
+        "Real Potential GDP (Estimated)": "9568.25",
+        "Potential GDP Grwth (Estimated)": "0.031845313519430096"
+    },
+    {
+        "": "75",
+        "Date": "1988-12-31",
+        "Real Potential GDP (CBO)": "9642.78",
+        "Potential GDP Grwth (CBO)": "0.031673075318239485",
+        "Real Potential GDP (Estimated)": "9642.78",
+        "Potential GDP Grwth (Estimated)": "0.031673075318239485"
+    },
+    {
+        "": "76",
+        "Date": "1989-03-31",
+        "Real Potential GDP (CBO)": "9717.3",
+        "Potential GDP Grwth (CBO)": "0.03153860852211188",
+        "Real Potential GDP (Estimated)": "9717.3",
+        "Potential GDP Grwth (Estimated)": "0.03153860852211188"
+    },
+    {
+        "": "77",
+        "Date": "1989-06-30",
+        "Real Potential GDP (CBO)": "9791.79",
+        "Potential GDP Grwth (CBO)": "0.03134983121185164",
+        "Real Potential GDP (Estimated)": "9791.79",
+        "Potential GDP Grwth (Estimated)": "0.03134983121185164"
+    },
+    {
+        "": "78",
+        "Date": "1989-09-30",
+        "Real Potential GDP (CBO)": "9865.95",
+        "Potential GDP Grwth (CBO)": "0.031113317482298397",
+        "Real Potential GDP (Estimated)": "9865.95",
+        "Potential GDP Grwth (Estimated)": "0.031113317482298397"
+    },
+    {
+        "": "79",
+        "Date": "1989-12-31",
+        "Real Potential GDP (CBO)": "9939.56",
+        "Potential GDP Grwth (CBO)": "0.03077743140463629",
+        "Real Potential GDP (Estimated)": "9939.56",
+        "Potential GDP Grwth (Estimated)": "0.03077743140463629"
+    },
+    {
+        "": "80",
+        "Date": "1990-03-31",
+        "Real Potential GDP (CBO)": "10011.98",
+        "Potential GDP Grwth (CBO)": "0.03032529612135071",
+        "Real Potential GDP (Estimated)": "10011.98",
+        "Potential GDP Grwth (Estimated)": "0.03032529612135071"
+    },
+    {
+        "": "81",
+        "Date": "1990-06-30",
+        "Real Potential GDP (CBO)": "10082.82",
+        "Potential GDP Grwth (CBO)": "0.029721838397269496",
+        "Real Potential GDP (Estimated)": "10082.82",
+        "Potential GDP Grwth (Estimated)": "0.029721838397269496"
+    },
+    {
+        "": "82",
+        "Date": "1990-09-30",
+        "Real Potential GDP (CBO)": "10151.6",
+        "Potential GDP Grwth (CBO)": "0.02895311652704491",
+        "Real Potential GDP (Estimated)": "10151.6",
+        "Potential GDP Grwth (Estimated)": "0.02895311652704491"
+    },
+    {
+        "": "83",
+        "Date": "1990-12-31",
+        "Real Potential GDP (CBO)": "10218.31",
+        "Potential GDP Grwth (CBO)": "0.02804450096382527",
+        "Real Potential GDP (Estimated)": "10218.31",
+        "Potential GDP Grwth (Estimated)": "0.02804450096382527"
+    },
+    {
+        "": "84",
+        "Date": "1991-03-31",
+        "Real Potential GDP (CBO)": "10283.36",
+        "Potential GDP Grwth (CBO)": "0.027105527577961697",
+        "Real Potential GDP (Estimated)": "10283.36",
+        "Potential GDP Grwth (Estimated)": "0.027105527577961697"
+    },
+    {
+        "": "85",
+        "Date": "1991-06-30",
+        "Real Potential GDP (CBO)": "10346.86",
+        "Potential GDP Grwth (CBO)": "0.02618711828635245",
+        "Real Potential GDP (Estimated)": "10346.86",
+        "Potential GDP Grwth (Estimated)": "0.02618711828635245"
+    },
+    {
+        "": "86",
+        "Date": "1991-09-30",
+        "Real Potential GDP (CBO)": "10409.26",
+        "Potential GDP Grwth (CBO)": "0.02538122069427473",
+        "Real Potential GDP (Estimated)": "10409.26",
+        "Potential GDP Grwth (Estimated)": "0.02538122069427473"
+    },
+    {
+        "": "87",
+        "Date": "1991-12-31",
+        "Real Potential GDP (CBO)": "10471.49",
+        "Potential GDP Grwth (CBO)": "0.024777091319406086",
+        "Real Potential GDP (Estimated)": "10471.49",
+        "Potential GDP Grwth (Estimated)": "0.024777091319406086"
+    },
+    {
+        "": "88",
+        "Date": "1992-03-31",
+        "Real Potential GDP (CBO)": "10533.56",
+        "Potential GDP Grwth (CBO)": "0.024330568996903557",
+        "Real Potential GDP (Estimated)": "10533.56",
+        "Potential GDP Grwth (Estimated)": "0.024330568996903557"
+    },
+    {
+        "": "89",
+        "Date": "1992-06-30",
+        "Real Potential GDP (CBO)": "10596.35",
+        "Potential GDP Grwth (CBO)": "0.02411262933875591",
+        "Real Potential GDP (Estimated)": "10596.35",
+        "Potential GDP Grwth (Estimated)": "0.02411262933875591"
+    },
+    {
+        "": "90",
+        "Date": "1992-09-30",
+        "Real Potential GDP (CBO)": "10660.47",
+        "Potential GDP Grwth (CBO)": "0.024133319755679006",
+        "Real Potential GDP (Estimated)": "10660.47",
+        "Potential GDP Grwth (Estimated)": "0.024133319755679006"
+    },
+    {
+        "": "91",
+        "Date": "1992-12-31",
+        "Real Potential GDP (CBO)": "10725.48",
+        "Potential GDP Grwth (CBO)": "0.02425538294932239",
+        "Real Potential GDP (Estimated)": "10725.48",
+        "Potential GDP Grwth (Estimated)": "0.02425538294932239"
+    },
+    {
+        "": "92",
+        "Date": "1993-03-31",
+        "Real Potential GDP (CBO)": "10791.44",
+        "Potential GDP Grwth (CBO)": "0.024481751658508744",
+        "Real Potential GDP (Estimated)": "10791.44",
+        "Potential GDP Grwth (Estimated)": "0.024481751658508744"
+    },
+    {
+        "": "93",
+        "Date": "1993-06-30",
+        "Real Potential GDP (CBO)": "10859.19",
+        "Potential GDP Grwth (CBO)": "0.024804767679436734",
+        "Real Potential GDP (Estimated)": "10859.19",
+        "Potential GDP Grwth (Estimated)": "0.024804767679436734"
+    },
+    {
+        "": "94",
+        "Date": "1993-09-30",
+        "Real Potential GDP (CBO)": "10927.95",
+        "Potential GDP Grwth (CBO)": "0.025090826201846772",
+        "Real Potential GDP (Estimated)": "10927.95",
+        "Potential GDP Grwth (Estimated)": "0.025090826201846772"
+    },
+    {
+        "": "95",
+        "Date": "1993-12-31",
+        "Real Potential GDP (CBO)": "10997.69",
+        "Potential GDP Grwth (CBO)": "0.025379749903967186",
+        "Real Potential GDP (Estimated)": "10997.69",
+        "Potential GDP Grwth (Estimated)": "0.025379749903967186"
+    },
+    {
+        "": "96",
+        "Date": "1994-03-31",
+        "Real Potential GDP (CBO)": "11068.29",
+        "Potential GDP Grwth (CBO)": "0.025654592899557516",
+        "Real Potential GDP (Estimated)": "11068.29",
+        "Potential GDP Grwth (Estimated)": "0.025654592899557516"
+    },
+    {
+        "": "97",
+        "Date": "1994-06-30",
+        "Real Potential GDP (CBO)": "11139.62",
+        "Potential GDP Grwth (CBO)": "0.02582420972466637",
+        "Real Potential GDP (Estimated)": "11139.62",
+        "Potential GDP Grwth (Estimated)": "0.02582420972466637"
+    },
+    {
+        "": "98",
+        "Date": "1994-09-30",
+        "Real Potential GDP (CBO)": "11212.44",
+        "Potential GDP Grwth (CBO)": "0.026033245027658358",
+        "Real Potential GDP (Estimated)": "11212.44",
+        "Potential GDP Grwth (Estimated)": "0.026033245027658358"
+    },
+    {
+        "": "99",
+        "Date": "1994-12-31",
+        "Real Potential GDP (CBO)": "11286.43",
+        "Potential GDP Grwth (CBO)": "0.026254604376009905",
+        "Real Potential GDP (Estimated)": "11286.43",
+        "Potential GDP Grwth (Estimated)": "0.026254604376009905"
+    },
+    {
+        "": "100",
+        "Date": "1995-03-31",
+        "Real Potential GDP (CBO)": "11361.03",
+        "Potential GDP Grwth (CBO)": "0.026448529989727465",
+        "Real Potential GDP (Estimated)": "11361.03",
+        "Potential GDP Grwth (Estimated)": "0.026448529989727465"
+    },
+    {
+        "": "101",
+        "Date": "1995-06-30",
+        "Real Potential GDP (CBO)": "11437.0",
+        "Potential GDP Grwth (CBO)": "0.026695704162260414",
+        "Real Potential GDP (Estimated)": "11437.0",
+        "Potential GDP Grwth (Estimated)": "0.026695704162260414"
+    },
+    {
+        "": "102",
+        "Date": "1995-09-30",
+        "Real Potential GDP (CBO)": "11513.8",
+        "Potential GDP Grwth (CBO)": "0.026877289867325738",
+        "Real Potential GDP (Estimated)": "11513.8",
+        "Potential GDP Grwth (Estimated)": "0.026877289867325738"
+    },
+    {
+        "": "103",
+        "Date": "1995-12-31",
+        "Real Potential GDP (CBO)": "11592.65",
+        "Potential GDP Grwth (CBO)": "0.02713169709110841",
+        "Real Potential GDP (Estimated)": "11592.65",
+        "Potential GDP Grwth (Estimated)": "0.02713169709110841"
+    },
+    {
+        "": "104",
+        "Date": "1996-03-31",
+        "Real Potential GDP (CBO)": "11673.2",
+        "Potential GDP Grwth (CBO)": "0.02747726218485469",
+        "Real Potential GDP (Estimated)": "11673.2",
+        "Potential GDP Grwth (Estimated)": "0.02747726218485469"
+    },
+    {
+        "": "105",
+        "Date": "1996-06-30",
+        "Real Potential GDP (CBO)": "11759.06",
+        "Potential GDP Grwth (CBO)": "0.028159482381743484",
+        "Real Potential GDP (Estimated)": "11759.06",
+        "Potential GDP Grwth (Estimated)": "0.028159482381743484"
+    },
+    {
+        "": "106",
+        "Date": "1996-09-30",
+        "Real Potential GDP (CBO)": "11851.39",
+        "Potential GDP Grwth (CBO)": "0.029320467612777623",
+        "Real Potential GDP (Estimated)": "11851.39",
+        "Potential GDP Grwth (Estimated)": "0.029320467612777623"
+    },
+    {
+        "": "107",
+        "Date": "1996-12-31",
+        "Real Potential GDP (CBO)": "11950.0",
+        "Potential GDP Grwth (CBO)": "0.030825566199272902",
+        "Real Potential GDP (Estimated)": "11950.0",
+        "Potential GDP Grwth (Estimated)": "0.030825566199272902"
+    },
+    {
+        "": "108",
+        "Date": "1997-03-31",
+        "Real Potential GDP (CBO)": "12054.72",
+        "Potential GDP Grwth (CBO)": "0.032683411575232135",
+        "Real Potential GDP (Estimated)": "12054.72",
+        "Potential GDP Grwth (Estimated)": "0.032683411575232135"
+    },
+    {
+        "": "109",
+        "Date": "1997-06-30",
+        "Real Potential GDP (CBO)": "12164.94",
+        "Potential GDP Grwth (CBO)": "0.03451636440327732",
+        "Real Potential GDP (Estimated)": "12164.94",
+        "Potential GDP Grwth (Estimated)": "0.03451636440327732"
+    },
+    {
+        "": "110",
+        "Date": "1997-09-30",
+        "Real Potential GDP (CBO)": "12281.12",
+        "Potential GDP Grwth (CBO)": "0.03625988175226724",
+        "Real Potential GDP (Estimated)": "12281.12",
+        "Potential GDP Grwth (Estimated)": "0.03625988175226724"
+    },
+    {
+        "": "111",
+        "Date": "1997-12-31",
+        "Real Potential GDP (CBO)": "12402.11",
+        "Potential GDP Grwth (CBO)": "0.03783347280334737",
+        "Real Potential GDP (Estimated)": "12402.11",
+        "Potential GDP Grwth (Estimated)": "0.03783347280334737"
+    },
+    {
+        "": "112",
+        "Date": "1998-03-31",
+        "Real Potential GDP (CBO)": "12527.6",
+        "Potential GDP Grwth (CBO)": "0.03922778795359827",
+        "Real Potential GDP (Estimated)": "12527.6",
+        "Potential GDP Grwth (Estimated)": "0.03922778795359827"
+    },
+    {
+        "": "113",
+        "Date": "1998-06-30",
+        "Real Potential GDP (CBO)": "12658.12",
+        "Potential GDP Grwth (CBO)": "0.040541095969236274",
+        "Real Potential GDP (Estimated)": "12658.12",
+        "Potential GDP Grwth (Estimated)": "0.040541095969236274"
+    },
+    {
+        "": "114",
+        "Date": "1998-09-30",
+        "Real Potential GDP (CBO)": "12792.11",
+        "Potential GDP Grwth (CBO)": "0.041607768672563994",
+        "Real Potential GDP (Estimated)": "12792.11",
+        "Potential GDP Grwth (Estimated)": "0.041607768672563994"
+    },
+    {
+        "": "115",
+        "Date": "1998-12-31",
+        "Real Potential GDP (CBO)": "12929.7",
+        "Potential GDP Grwth (CBO)": "0.04254034192568845",
+        "Real Potential GDP (Estimated)": "12929.7",
+        "Potential GDP Grwth (Estimated)": "0.04254034192568845"
+    },
+    {
+        "": "116",
+        "Date": "1999-03-31",
+        "Real Potential GDP (CBO)": "13070.85",
+        "Potential GDP Grwth (CBO)": "0.043364251732175285",
+        "Real Potential GDP (Estimated)": "13070.85",
+        "Potential GDP Grwth (Estimated)": "0.043364251732175285"
+    },
+    {
+        "": "117",
+        "Date": "1999-06-30",
+        "Real Potential GDP (CBO)": "13214.56",
+        "Potential GDP Grwth (CBO)": "0.043959134531826205",
+        "Real Potential GDP (Estimated)": "13214.56",
+        "Potential GDP Grwth (Estimated)": "0.043959134531826205"
+    },
+    {
+        "": "118",
+        "Date": "1999-09-30",
+        "Real Potential GDP (CBO)": "13360.46",
+        "Potential GDP Grwth (CBO)": "0.04442973051357435",
+        "Real Potential GDP (Estimated)": "13360.46",
+        "Potential GDP Grwth (Estimated)": "0.04442973051357435"
+    },
+    {
+        "": "119",
+        "Date": "1999-12-31",
+        "Real Potential GDP (CBO)": "13508.53",
+        "Potential GDP Grwth (CBO)": "0.04476747333658171",
+        "Real Potential GDP (Estimated)": "13508.53",
+        "Potential GDP Grwth (Estimated)": "0.04476747333658171"
+    },
+    {
+        "": "120",
+        "Date": "2000-03-31",
+        "Real Potential GDP (CBO)": "13657.54",
+        "Potential GDP Grwth (CBO)": "0.044885374707842374",
+        "Real Potential GDP (Estimated)": "13657.54",
+        "Potential GDP Grwth (Estimated)": "0.044885374707842374"
+    },
+    {
+        "": "121",
+        "Date": "2000-06-30",
+        "Real Potential GDP (CBO)": "13802.28",
+        "Potential GDP Grwth (CBO)": "0.04447518494751246",
+        "Real Potential GDP (Estimated)": "13802.28",
+        "Potential GDP Grwth (Estimated)": "0.04447518494751246"
+    },
+    {
+        "": "122",
+        "Date": "2000-09-30",
+        "Real Potential GDP (CBO)": "13940.47",
+        "Potential GDP Grwth (CBO)": "0.04341242741642137",
+        "Real Potential GDP (Estimated)": "13940.47",
+        "Potential GDP Grwth (Estimated)": "0.04341242741642137"
+    },
+    {
+        "": "123",
+        "Date": "2000-12-31",
+        "Real Potential GDP (CBO)": "14071.3",
+        "Potential GDP Grwth (CBO)": "0.041660343501476405",
+        "Real Potential GDP (Estimated)": "14071.3",
+        "Potential GDP Grwth (Estimated)": "0.041660343501476405"
+    },
+    {
+        "": "124",
+        "Date": "2001-03-31",
+        "Real Potential GDP (CBO)": "14194.96",
+        "Potential GDP Grwth (CBO)": "0.039349692550781246",
+        "Real Potential GDP (Estimated)": "14194.96",
+        "Potential GDP Grwth (Estimated)": "0.039349692550781246"
+    },
+    {
+        "": "125",
+        "Date": "2001-06-30",
+        "Real Potential GDP (CBO)": "14311.6",
+        "Potential GDP Grwth (CBO)": "0.0369011496651277",
+        "Real Potential GDP (Estimated)": "14311.6",
+        "Potential GDP Grwth (Estimated)": "0.0369011496651277"
+    },
+    {
+        "": "126",
+        "Date": "2001-09-30",
+        "Real Potential GDP (CBO)": "14421.41",
+        "Potential GDP Grwth (CBO)": "0.03449955417572004",
+        "Real Potential GDP (Estimated)": "14421.41",
+        "Potential GDP Grwth (Estimated)": "0.03449955417572004"
+    },
+    {
+        "": "127",
+        "Date": "2001-12-31",
+        "Real Potential GDP (CBO)": "14525.43",
+        "Potential GDP Grwth (CBO)": "0.03227349285424941",
+        "Real Potential GDP (Estimated)": "14525.43",
+        "Potential GDP Grwth (Estimated)": "0.03227349285424941"
+    },
+    {
+        "": "128",
+        "Date": "2002-03-31",
+        "Real Potential GDP (CBO)": "14624.27",
+        "Potential GDP Grwth (CBO)": "0.03024383302242506",
+        "Real Potential GDP (Estimated)": "14624.27",
+        "Potential GDP Grwth (Estimated)": "0.03024383302242506"
+    },
+    {
+        "": "129",
+        "Date": "2002-06-30",
+        "Real Potential GDP (CBO)": "14719.75",
+        "Potential GDP Grwth (CBO)": "0.02851882389110938",
+        "Real Potential GDP (Estimated)": "14719.75",
+        "Potential GDP Grwth (Estimated)": "0.02851882389110938"
+    },
+    {
+        "": "130",
+        "Date": "2002-09-30",
+        "Real Potential GDP (CBO)": "14813.45",
+        "Potential GDP Grwth (CBO)": "0.02718458181273542",
+        "Real Potential GDP (Estimated)": "14813.45",
+        "Potential GDP Grwth (Estimated)": "0.02718458181273542"
+    },
+    {
+        "": "131",
+        "Date": "2002-12-31",
+        "Real Potential GDP (CBO)": "14905.92",
+        "Potential GDP Grwth (CBO)": "0.026194749484180546",
+        "Real Potential GDP (Estimated)": "14905.92",
+        "Potential GDP Grwth (Estimated)": "0.026194749484180546"
+    },
+    {
+        "": "132",
+        "Date": "2003-03-31",
+        "Real Potential GDP (CBO)": "14998.24",
+        "Potential GDP Grwth (CBO)": "0.025571874698702812",
+        "Real Potential GDP (Estimated)": "14998.24",
+        "Potential GDP Grwth (Estimated)": "0.025571874698702812"
+    },
+    {
+        "": "133",
+        "Date": "2003-06-30",
+        "Real Potential GDP (CBO)": "15091.22",
+        "Potential GDP Grwth (CBO)": "0.02523616229895209",
+        "Real Potential GDP (Estimated)": "15091.22",
+        "Potential GDP Grwth (Estimated)": "0.02523616229895209"
+    },
+    {
+        "": "134",
+        "Date": "2003-09-30",
+        "Real Potential GDP (CBO)": "15184.29",
+        "Potential GDP Grwth (CBO)": "0.02503400625782648",
+        "Real Potential GDP (Estimated)": "15184.29",
+        "Potential GDP Grwth (Estimated)": "0.02503400625782648"
+    },
+    {
+        "": "135",
+        "Date": "2003-12-31",
+        "Real Potential GDP (CBO)": "15278.8",
+        "Potential GDP Grwth (CBO)": "0.025015564285867598",
+        "Real Potential GDP (Estimated)": "15278.8",
+        "Potential GDP Grwth (Estimated)": "0.025015564285867598"
+    },
+    {
+        "": "136",
+        "Date": "2004-03-31",
+        "Real Potential GDP (CBO)": "15375.24",
+        "Potential GDP Grwth (CBO)": "0.025136282657165054",
+        "Real Potential GDP (Estimated)": "15375.24",
+        "Potential GDP Grwth (Estimated)": "0.025136282657165054"
+    },
+    {
+        "": "137",
+        "Date": "2004-06-30",
+        "Real Potential GDP (CBO)": "15473.37",
+        "Potential GDP Grwth (CBO)": "0.02532267106304209",
+        "Real Potential GDP (Estimated)": "15473.37",
+        "Potential GDP Grwth (Estimated)": "0.02532267106304209"
+    },
+    {
+        "": "138",
+        "Date": "2004-09-30",
+        "Real Potential GDP (CBO)": "15573.87",
+        "Potential GDP Grwth (CBO)": "0.025656780791199374",
+        "Real Potential GDP (Estimated)": "15573.87",
+        "Potential GDP Grwth (Estimated)": "0.025656780791199374"
+    },
+    {
+        "": "139",
+        "Date": "2004-12-31",
+        "Real Potential GDP (CBO)": "15675.86",
+        "Potential GDP Grwth (CBO)": "0.025987643008613226",
+        "Real Potential GDP (Estimated)": "15675.86",
+        "Potential GDP Grwth (Estimated)": "0.025987643008613226"
+    },
+    {
+        "": "140",
+        "Date": "2005-03-31",
+        "Real Potential GDP (CBO)": "15776.04",
+        "Potential GDP Grwth (CBO)": "0.026067885769587962",
+        "Real Potential GDP (Estimated)": "15776.04",
+        "Potential GDP Grwth (Estimated)": "0.026067885769587962"
+    },
+    {
+        "": "141",
+        "Date": "2005-06-30",
+        "Real Potential GDP (CBO)": "15873.33",
+        "Potential GDP Grwth (CBO)": "0.025848279980379196",
+        "Real Potential GDP (Estimated)": "15873.33",
+        "Potential GDP Grwth (Estimated)": "0.025848279980379196"
+    },
+    {
+        "": "142",
+        "Date": "2005-09-30",
+        "Real Potential GDP (CBO)": "15968.89",
+        "Potential GDP Grwth (CBO)": "0.02536428004086333",
+        "Real Potential GDP (Estimated)": "15968.89",
+        "Potential GDP Grwth (Estimated)": "0.02536428004086333"
+    },
+    {
+        "": "143",
+        "Date": "2005-12-31",
+        "Real Potential GDP (CBO)": "16061.95",
+        "Potential GDP Grwth (CBO)": "0.024629589700341903",
+        "Real Potential GDP (Estimated)": "16061.95",
+        "Potential GDP Grwth (Estimated)": "0.024629589700341903"
+    },
+    {
+        "": "144",
+        "Date": "2006-03-31",
+        "Real Potential GDP (CBO)": "16152.34",
+        "Potential GDP Grwth (CBO)": "0.02385262714851133",
+        "Real Potential GDP (Estimated)": "16152.34",
+        "Potential GDP Grwth (Estimated)": "0.02385262714851133"
+    },
+    {
+        "": "145",
+        "Date": "2006-06-30",
+        "Real Potential GDP (CBO)": "16240.36",
+        "Potential GDP Grwth (CBO)": "0.023122432407062687",
+        "Real Potential GDP (Estimated)": "16240.36",
+        "Potential GDP Grwth (Estimated)": "0.023122432407062687"
+    },
+    {
+        "": "146",
+        "Date": "2006-09-30",
+        "Real Potential GDP (CBO)": "16324.19",
+        "Potential GDP Grwth (CBO)": "0.022249511393716226",
+        "Real Potential GDP (Estimated)": "16324.19",
+        "Potential GDP Grwth (Estimated)": "0.022249511393716226"
+    },
+    {
+        "": "147",
+        "Date": "2006-12-31",
+        "Real Potential GDP (CBO)": "16403.59",
+        "Potential GDP Grwth (CBO)": "0.021270144658649848",
+        "Real Potential GDP (Estimated)": "16403.59",
+        "Potential GDP Grwth (Estimated)": "0.021270144658649848"
+    },
+    {
+        "": "148",
+        "Date": "2007-03-31",
+        "Real Potential GDP (CBO)": "16483.84",
+        "Potential GDP Grwth (CBO)": "0.020523342128756505",
+        "Real Potential GDP (Estimated)": "16483.84",
+        "Potential GDP Grwth (Estimated)": "0.020523342128756505"
+    },
+    {
+        "": "149",
+        "Date": "2007-06-30",
+        "Real Potential GDP (CBO)": "16565.4",
+        "Potential GDP Grwth (CBO)": "0.02001433465760627",
+        "Real Potential GDP (Estimated)": "16565.4",
+        "Potential GDP Grwth (Estimated)": "0.02001433465760627"
+    },
+    {
+        "": "150",
+        "Date": "2007-09-30",
+        "Real Potential GDP (CBO)": "16648.12",
+        "Potential GDP Grwth (CBO)": "0.019843557321986394",
+        "Real Potential GDP (Estimated)": "16648.12",
+        "Potential GDP Grwth (Estimated)": "0.019843557321986394"
+    },
+    {
+        "": "151",
+        "Date": "2007-12-31",
+        "Real Potential GDP (CBO)": "16731.37",
+        "Potential GDP Grwth (CBO)": "0.019982211211082346",
+        "Real Potential GDP (Estimated)": "16731.37",
+        "Potential GDP Grwth (Estimated)": "0.019982211211082346"
+    },
+    {
+        "": "152",
+        "Date": "2008-03-31",
+        "Real Potential GDP (CBO)": "16814.13",
+        "Potential GDP Grwth (CBO)": "0.02003720006988674",
+        "Real Potential GDP (Estimated)": "16814.13",
+        "Potential GDP Grwth (Estimated)": "0.02003720006988674"
+    },
+    {
+        "": "153",
+        "Date": "2008-06-30",
+        "Real Potential GDP (CBO)": "16894.42",
+        "Potential GDP Grwth (CBO)": "0.019861880787665598",
+        "Real Potential GDP (Estimated)": "16894.42",
+        "Potential GDP Grwth (Estimated)": "0.019861880787665598"
+    },
+    {
+        "": "154",
+        "Date": "2008-09-30",
+        "Real Potential GDP (CBO)": "16971.79",
+        "Potential GDP Grwth (CBO)": "0.019441834873847652",
+        "Real Potential GDP (Estimated)": "16971.79",
+        "Potential GDP Grwth (Estimated)": "0.019441834873847652"
+    },
+    {
+        "": "155",
+        "Date": "2008-12-31",
+        "Real Potential GDP (CBO)": "17045.16",
+        "Potential GDP Grwth (CBO)": "0.018754590927102965",
+        "Real Potential GDP (Estimated)": "17045.16",
+        "Potential GDP Grwth (Estimated)": "0.018754590927102965"
+    },
+    {
+        "": "156",
+        "Date": "2009-03-31",
+        "Real Potential GDP (CBO)": "17113.13",
+        "Potential GDP Grwth (CBO)": "0.017782662558217366",
+        "Real Potential GDP (Estimated)": "17113.13",
+        "Potential GDP Grwth (Estimated)": "0.017782662558217366"
+    },
+    {
+        "": "157",
+        "Date": "2009-06-30",
+        "Real Potential GDP (CBO)": "17177.09",
+        "Potential GDP Grwth (CBO)": "0.016731559887821046",
+        "Real Potential GDP (Estimated)": "17177.09",
+        "Potential GDP Grwth (Estimated)": "0.016731559887821046"
+    },
+    {
+        "": "158",
+        "Date": "2009-09-30",
+        "Real Potential GDP (CBO)": "17237.65",
+        "Potential GDP Grwth (CBO)": "0.015664817912547813",
+        "Real Potential GDP (Estimated)": "17237.65",
+        "Potential GDP Grwth (Estimated)": "0.015664817912547813"
+    },
+    {
+        "": "159",
+        "Date": "2009-12-31",
+        "Real Potential GDP (CBO)": "17296.78",
+        "Potential GDP Grwth (CBO)": "0.014761961753365638",
+        "Real Potential GDP (Estimated)": "17296.78",
+        "Potential GDP Grwth (Estimated)": "0.014761961753365638"
+    },
+    {
+        "": "160",
+        "Date": "2010-03-31",
+        "Real Potential GDP (CBO)": "17356.75",
+        "Potential GDP Grwth (CBO)": "0.014235852821780748",
+        "Real Potential GDP (Estimated)": "17356.75",
+        "Potential GDP Grwth (Estimated)": "0.014235852821780748"
+    },
+    {
+        "": "161",
+        "Date": "2010-06-30",
+        "Real Potential GDP (CBO)": "17418.49",
+        "Potential GDP Grwth (CBO)": "0.014053602793022701",
+        "Real Potential GDP (Estimated)": "17418.49",
+        "Potential GDP Grwth (Estimated)": "0.014053602793022701"
+    },
+    {
+        "": "162",
+        "Date": "2010-09-30",
+        "Real Potential GDP (CBO)": "17483.43",
+        "Potential GDP Grwth (CBO)": "0.01425832407549743",
+        "Real Potential GDP (Estimated)": "17483.43",
+        "Potential GDP Grwth (Estimated)": "0.01425832407549743"
+    },
+    {
+        "": "163",
+        "Date": "2010-12-31",
+        "Real Potential GDP (CBO)": "17550.88",
+        "Potential GDP Grwth (CBO)": "0.014690595590624467",
+        "Real Potential GDP (Estimated)": "17550.88",
+        "Potential GDP Grwth (Estimated)": "0.014690595590624467"
+    },
+    {
+        "": "164",
+        "Date": "2011-03-31",
+        "Real Potential GDP (CBO)": "17620.92",
+        "Potential GDP Grwth (CBO)": "0.01522001526783523",
+        "Real Potential GDP (Estimated)": "17620.92",
+        "Potential GDP Grwth (Estimated)": "0.01522001526783523"
+    },
+    {
+        "": "165",
+        "Date": "2011-06-30",
+        "Real Potential GDP (CBO)": "17693.45",
+        "Potential GDP Grwth (CBO)": "0.015785524462797795",
+        "Real Potential GDP (Estimated)": "17693.45",
+        "Potential GDP Grwth (Estimated)": "0.015785524462797795"
+    },
+    {
+        "": "166",
+        "Date": "2011-09-30",
+        "Real Potential GDP (CBO)": "17768.33",
+        "Potential GDP Grwth (CBO)": "0.01629542944376494",
+        "Real Potential GDP (Estimated)": "17768.33",
+        "Potential GDP Grwth (Estimated)": "0.01629542944376494"
+    },
+    {
+        "": "167",
+        "Date": "2011-12-31",
+        "Real Potential GDP (CBO)": "17844.75",
+        "Potential GDP Grwth (CBO)": "0.016743889765071573",
+        "Real Potential GDP (Estimated)": "17844.75",
+        "Potential GDP Grwth (Estimated)": "0.016743889765071573"
+    },
+    {
+        "": "168",
+        "Date": "2012-03-31",
+        "Real Potential GDP (CBO)": "17922.49",
+        "Potential GDP Grwth (CBO)": "0.01711431639210681",
+        "Real Potential GDP (Estimated)": "17922.49",
+        "Potential GDP Grwth (Estimated)": "0.01711431639210681"
+    },
+    {
+        "": "169",
+        "Date": "2012-06-30",
+        "Real Potential GDP (CBO)": "18001.83",
+        "Potential GDP Grwth (CBO)": "0.017429048602731534",
+        "Real Potential GDP (Estimated)": "18001.83",
+        "Potential GDP Grwth (Estimated)": "0.017429048602731534"
+    },
+    {
+        "": "170",
+        "Date": "2012-09-30",
+        "Real Potential GDP (CBO)": "18082.2",
+        "Potential GDP Grwth (CBO)": "0.01766457511763897",
+        "Real Potential GDP (Estimated)": "18082.2",
+        "Potential GDP Grwth (Estimated)": "0.01766457511763897"
+    },
+    {
+        "": "171",
+        "Date": "2012-12-31",
+        "Real Potential GDP (CBO)": "18163.43",
+        "Potential GDP Grwth (CBO)": "0.017858473780803852",
+        "Real Potential GDP (Estimated)": "18163.43",
+        "Potential GDP Grwth (Estimated)": "0.017858473780803852"
+    },
+    {
+        "": "172",
+        "Date": "2013-03-31",
+        "Real Potential GDP (CBO)": "18246.14",
+        "Potential GDP Grwth (CBO)": "0.01805831667363167",
+        "Real Potential GDP (Estimated)": "18246.14",
+        "Potential GDP Grwth (Estimated)": "0.01805831667363167"
+    },
+    {
+        "": "173",
+        "Date": "2013-06-30",
+        "Real Potential GDP (CBO)": "18329.24",
+        "Potential GDP Grwth (CBO)": "0.018187595372248344",
+        "Real Potential GDP (Estimated)": "18329.24",
+        "Potential GDP Grwth (Estimated)": "0.018187595372248344"
+    },
+    {
+        "": "174",
+        "Date": "2013-09-30",
+        "Real Potential GDP (CBO)": "18412.63",
+        "Potential GDP Grwth (CBO)": "0.01827377199677027",
+        "Real Potential GDP (Estimated)": "18412.63",
+        "Potential GDP Grwth (Estimated)": "0.01827377199677027"
+    },
+    {
+        "": "175",
+        "Date": "2013-12-31",
+        "Real Potential GDP (CBO)": "18496.91",
+        "Potential GDP Grwth (CBO)": "0.018359968353994782",
+        "Real Potential GDP (Estimated)": "18496.91",
+        "Potential GDP Grwth (Estimated)": "0.018359968353994782"
+    },
+    {
+        "": "176",
+        "Date": "2014-03-31",
+        "Real Potential GDP (CBO)": "18582.07",
+        "Potential GDP Grwth (CBO)": "0.01841101734394246",
+        "Real Potential GDP (Estimated)": "18582.07",
+        "Potential GDP Grwth (Estimated)": "0.01841101734394246"
+    },
+    {
+        "": "177",
+        "Date": "2014-06-30",
+        "Real Potential GDP (CBO)": "18667.95",
+        "Potential GDP Grwth (CBO)": "0.01847921681422693",
+        "Real Potential GDP (Estimated)": "18667.95",
+        "Potential GDP Grwth (Estimated)": "0.01847921681422693"
+    },
+    {
+        "": "178",
+        "Date": "2014-09-30",
+        "Real Potential GDP (CBO)": "18755.44",
+        "Potential GDP Grwth (CBO)": "0.018618198486582083",
+        "Real Potential GDP (Estimated)": "18755.44",
+        "Potential GDP Grwth (Estimated)": "0.018618198486582083"
+    },
+    {
+        "": "179",
+        "Date": "2014-12-31",
+        "Real Potential GDP (CBO)": "18843.65",
+        "Potential GDP Grwth (CBO)": "0.018745833763585518",
+        "Real Potential GDP (Estimated)": "18843.65",
+        "Potential GDP Grwth (Estimated)": "0.018745833763585518"
+    },
+    {
+        "": "180",
+        "Date": "2015-03-31",
+        "Real Potential GDP (CBO)": "18932.38",
+        "Potential GDP Grwth (CBO)": "0.018852043932672702",
+        "Real Potential GDP (Estimated)": "18932.38",
+        "Potential GDP Grwth (Estimated)": "0.018852043932672702"
+    },
+    {
+        "": "181",
+        "Date": "2015-06-30",
+        "Real Potential GDP (CBO)": "19021.59",
+        "Potential GDP Grwth (CBO)": "0.018943697620788624",
+        "Real Potential GDP (Estimated)": "19021.59",
+        "Potential GDP Grwth (Estimated)": "0.018943697620788624"
+    },
+    {
+        "": "182",
+        "Date": "2015-09-30",
+        "Real Potential GDP (CBO)": "19110.64",
+        "Potential GDP Grwth (CBO)": "0.018938505308326636",
+        "Real Potential GDP (Estimated)": "19110.64",
+        "Potential GDP Grwth (Estimated)": "0.018938505308326636"
+    },
+    {
+        "": "183",
+        "Date": "2015-12-31",
+        "Real Potential GDP (CBO)": "19199.32",
+        "Potential GDP Grwth (CBO)": "0.018874793365404097",
+        "Real Potential GDP (Estimated)": "19199.32",
+        "Potential GDP Grwth (Estimated)": "0.018874793365404097"
+    },
+    {
+        "": "184",
+        "Date": "2016-03-31",
+        "Real Potential GDP (CBO)": "19287.69",
+        "Potential GDP Grwth (CBO)": "0.018767318213557704",
+        "Real Potential GDP (Estimated)": "19287.69",
+        "Potential GDP Grwth (Estimated)": "0.018767318213557704"
+    },
+    {
+        "": "185",
+        "Date": "2016-06-30",
+        "Real Potential GDP (CBO)": "19376.03",
+        "Potential GDP Grwth (CBO)": "0.018633563229992767",
+        "Real Potential GDP (Estimated)": "19376.03",
+        "Potential GDP Grwth (Estimated)": "0.018633563229992767"
+    },
+    {
+        "": "186",
+        "Date": "2016-09-30",
+        "Real Potential GDP (CBO)": "19464.22",
+        "Potential GDP Grwth (CBO)": "0.018501735159052846",
+        "Real Potential GDP (Estimated)": "19464.22",
+        "Potential GDP Grwth (Estimated)": "0.018501735159052846"
+    },
+    {
+        "": "187",
+        "Date": "2016-12-31",
+        "Real Potential GDP (CBO)": "19552.48",
+        "Potential GDP Grwth (CBO)": "0.018394401468385224",
+        "Real Potential GDP (Estimated)": "19552.48",
+        "Potential GDP Grwth (Estimated)": "0.018394401468385224"
+    },
+    {
+        "": "188",
+        "Date": "2017-03-31",
+        "Real Potential GDP (CBO)": "19641.43",
+        "Potential GDP Grwth (CBO)": "0.018340195222963596",
+        "Real Potential GDP (Estimated)": "19641.43",
+        "Potential GDP Grwth (Estimated)": "0.018340195222963596"
+    },
+    {
+        "": "189",
+        "Date": "2017-06-30",
+        "Real Potential GDP (CBO)": "19730.98",
+        "Potential GDP Grwth (CBO)": "0.018319026136933036",
+        "Real Potential GDP (Estimated)": "19730.98",
+        "Potential GDP Grwth (Estimated)": "0.018319026136933036"
+    },
+    {
+        "": "190",
+        "Date": "2017-09-30",
+        "Real Potential GDP (CBO)": "19823.4",
+        "Potential GDP Grwth (CBO)": "0.01845334670487686",
+        "Real Potential GDP (Estimated)": "19823.4",
+        "Potential GDP Grwth (Estimated)": "0.01845334670487686"
+    },
+    {
+        "": "191",
+        "Date": "2017-12-31",
+        "Real Potential GDP (CBO)": "19918.53",
+        "Potential GDP Grwth (CBO)": "0.01872141027634333",
+        "Real Potential GDP (Estimated)": "19918.53",
+        "Potential GDP Grwth (Estimated)": "0.01872141027634333"
+    },
+    {
+        "": "192",
+        "Date": "2018-03-31",
+        "Real Potential GDP (CBO)": "20016.51",
+        "Potential GDP Grwth (CBO)": "0.019096369256209833",
+        "Real Potential GDP (Estimated)": "20016.51",
+        "Potential GDP Grwth (Estimated)": "0.019096369256209833"
+    },
+    {
+        "": "193",
+        "Date": "2018-06-30",
+        "Real Potential GDP (CBO)": "20117.45",
+        "Potential GDP Grwth (CBO)": "0.019586964256210315",
+        "Real Potential GDP (Estimated)": "20117.45",
+        "Potential GDP Grwth (Estimated)": "0.019586964256210315"
+    },
+    {
+        "": "194",
+        "Date": "2018-09-30",
+        "Real Potential GDP (CBO)": "20220.77",
+        "Potential GDP Grwth (CBO)": "0.02004550178072373",
+        "Real Potential GDP (Estimated)": "20220.77",
+        "Potential GDP Grwth (Estimated)": "0.02004550178072373"
+    },
+    {
+        "": "195",
+        "Date": "2018-12-31",
+        "Real Potential GDP (CBO)": "20325.13",
+        "Potential GDP Grwth (CBO)": "0.020413152978658644",
+        "Real Potential GDP (Estimated)": "20325.13",
+        "Potential GDP Grwth (Estimated)": "0.020413152978658644"
+    },
+    {
+        "": "196",
+        "Date": "2019-03-31",
+        "Real Potential GDP (CBO)": "20430.44",
+        "Potential GDP Grwth (CBO)": "0.020679429131252203",
+        "Real Potential GDP (Estimated)": "20430.44",
+        "Potential GDP Grwth (Estimated)": "0.020679429131252203"
+    },
+    {
+        "": "197",
+        "Date": "2019-06-30",
+        "Real Potential GDP (CBO)": "20536.8",
+        "Potential GDP Grwth (CBO)": "0.020845087225269454",
+        "Real Potential GDP (Estimated)": "20536.8",
+        "Potential GDP Grwth (Estimated)": "0.020845087225269454"
+    },
+    {
+        "": "198",
+        "Date": "2019-09-30",
+        "Real Potential GDP (CBO)": "20643.27",
+        "Potential GDP Grwth (CBO)": "0.020894357633265193",
+        "Real Potential GDP (Estimated)": "20643.27",
+        "Potential GDP Grwth (Estimated)": "0.020894357633265193"
+    },
+    {
+        "": "199",
+        "Date": "2019-12-31",
+        "Real Potential GDP (CBO)": "20747.19",
+        "Potential GDP Grwth (CBO)": "0.020765426838598167",
+        "Real Potential GDP (Estimated)": "20747.19",
+        "Potential GDP Grwth (Estimated)": "0.020765426838598167"
+    },
+    {
+        "": "200",
+        "Date": "2020-03-31",
+        "Real Potential GDP (CBO)": "20850.07",
+        "Potential GDP Grwth (CBO)": "0.02053944995800383",
+        "Real Potential GDP (Estimated)": "20850.07",
+        "Potential GDP Grwth (Estimated)": "0.02053944995800383"
+    },
+    {
+        "": "201",
+        "Date": "2020-06-30",
+        "Real Potential GDP (CBO)": "20952.63",
+        "Potential GDP Grwth (CBO)": "0.020248042538272948",
+        "Real Potential GDP (Estimated)": "20952.63",
+        "Potential GDP Grwth (Estimated)": "0.020248042538272948"
+    },
+    {
+        "": "202",
+        "Date": "2020-09-30",
+        "Real Potential GDP (CBO)": "21052.64",
+        "Potential GDP Grwth (CBO)": "0.01983067605083888",
+        "Real Potential GDP (Estimated)": "21052.64",
+        "Potential GDP Grwth (Estimated)": "0.01983067605083888"
+    },
+    {
+        "": "203",
+        "Date": "2020-12-31",
+        "Real Potential GDP (CBO)": "21153.57",
+        "Potential GDP Grwth (CBO)": "0.019587230849093418",
+        "Real Potential GDP (Estimated)": "21153.57",
+        "Potential GDP Grwth (Estimated)": "0.019587230849093418"
+    },
+    {
+        "": "204",
+        "Date": "2021-03-31",
+        "Real Potential GDP (CBO)": "21254.6",
+        "Potential GDP Grwth (CBO)": "0.019401853327110974",
+        "Real Potential GDP (Estimated)": "21254.6",
+        "Potential GDP Grwth (Estimated)": "0.019401853327110974"
+    },
+    {
+        "": "205",
+        "Date": "2021-06-30",
+        "Real Potential GDP (CBO)": "21355.9",
+        "Potential GDP Grwth (CBO)": "0.019246748498875865",
+        "Real Potential GDP (Estimated)": "21355.9",
+        "Potential GDP Grwth (Estimated)": "0.019246748498875865"
+    },
+    {
+        "": "206",
+        "Date": "2021-09-30",
+        "Real Potential GDP (CBO)": "21461.0",
+        "Potential GDP Grwth (CBO)": "0.01939709224116304",
+        "Real Potential GDP (Estimated)": "21461.0",
+        "Potential GDP Grwth (Estimated)": "0.01939709224116304"
+    },
+    {
+        "": "207",
+        "Date": "2021-12-31",
+        "Real Potential GDP (CBO)": "21567.1",
+        "Potential GDP Grwth (CBO)": "0.01954894611169644",
+        "Real Potential GDP (Estimated)": "21567.1",
+        "Potential GDP Grwth (Estimated)": "0.01954894611169644"
+    },
+    {
+        "": "208",
+        "Date": "2022-03-31",
+        "Real Potential GDP (CBO)": "21674.0",
+        "Potential GDP Grwth (CBO)": "0.019732199147478813",
+        "Real Potential GDP (Estimated)": "21674.0",
+        "Potential GDP Grwth (Estimated)": "0.019732199147478813"
+    },
+    {
+        "": "209",
+        "Date": "2022-06-30",
+        "Real Potential GDP (CBO)": "21782.0",
+        "Potential GDP Grwth (CBO)": "0.01995233167415078",
+        "Real Potential GDP (Estimated)": "21782.0",
+        "Potential GDP Grwth (Estimated)": "0.01995233167415078"
+    },
+    {
+        "": "210",
+        "Date": "2022-09-30",
+        "Real Potential GDP (CBO)": "21894.2",
+        "Potential GDP Grwth (CBO)": "0.02018545268160854",
+        "Real Potential GDP (Estimated)": "21894.2",
+        "Potential GDP Grwth (Estimated)": "0.02018545268160854"
+    },
+    {
+        "": "211",
+        "Date": "2022-12-31",
+        "Real Potential GDP (CBO)": "22006.9",
+        "Potential GDP Grwth (CBO)": "0.020392171409229887",
+        "Real Potential GDP (Estimated)": "22006.9",
+        "Potential GDP Grwth (Estimated)": "0.020392171409229887"
+    },
+    {
+        "": "212",
+        "Date": "2023-03-31",
+        "Real Potential GDP (CBO)": "22125.8",
+        "Potential GDP Grwth (CBO)": "0.020845252376118895",
+        "Real Potential GDP (Estimated)": "22125.8",
+        "Potential GDP Grwth (Estimated)": "0.020845252376118895"
+    },
+    {
+        "": "213",
+        "Date": "2023-06-30",
+        "Real Potential GDP (CBO)": "22246.2",
+        "Potential GDP Grwth (CBO)": "0.021311174364153862",
+        "Real Potential GDP (Estimated)": "22246.2",
+        "Potential GDP Grwth (Estimated)": "0.021311174364153862"
+    },
+    {
+        "": "214",
+        "Date": "2023-09-30",
+        "Real Potential GDP (CBO)": "22369.7",
+        "Potential GDP Grwth (CBO)": "0.021718080587552757",
+        "Real Potential GDP (Estimated)": "22369.7",
+        "Potential GDP Grwth (Estimated)": "0.021718080587552757"
+    },
+    {
+        "": "215",
+        "Date": "2023-12-31",
+        "Real Potential GDP (CBO)": "22495.2",
+        "Potential GDP Grwth (CBO)": "0.022188495426434418",
+        "Real Potential GDP (Estimated)": "22495.2",
+        "Potential GDP Grwth (Estimated)": "0.022188495426434418"
+    },
+    {
+        "": "216",
+        "Date": "2024-03-31",
+        "Real Potential GDP (CBO)": "22618.2",
+        "Potential GDP Grwth (CBO)": "0.022254562546891066",
+        "Real Potential GDP (Estimated)": "22618.2",
+        "Potential GDP Grwth (Estimated)": "0.022254562546891066"
+    },
+    {
+        "": "217",
+        "Date": "2024-06-30",
+        "Real Potential GDP (CBO)": "22739.0",
+        "Potential GDP Grwth (CBO)": "0.022152097886380506",
+        "Real Potential GDP (Estimated)": "22701.00646444798",
+        "Potential GDP Grwth (Estimated)": "0.020444231574290317"
+    },
+    {
+        "": "218",
+        "Date": "2024-09-30",
+        "Real Potential GDP (CBO)": "22862.7",
+        "Potential GDP Grwth (CBO)": "0.02203873990263605",
+        "Real Potential GDP (Estimated)": "22826.58297601462",
+        "Potential GDP Grwth (Estimated)": "0.02042418879174135"
+    },
+    {
+        "": "219",
+        "Date": "2024-12-31",
+        "Real Potential GDP (CBO)": "22988.8",
+        "Potential GDP Grwth (CBO)": "0.021942458835662704",
+        "Real Potential GDP (Estimated)": "22954.117384601792",
+        "Potential GDP Grwth (Estimated)": "0.020400680349665246"
+    },
+    {
+        "": "220",
+        "Date": "2025-03-31",
+        "Real Potential GDP (CBO)": "23116.6",
+        "Potential GDP Grwth (CBO)": "0.02203535206161411",
+        "Real Potential GDP (Estimated)": "23079.214172833003",
+        "Potential GDP Grwth (Estimated)": "0.020382443025218633"
+    },
+    {
+        "": "221",
+        "Date": "2025-06-30",
+        "Real Potential GDP (CBO)": "23245.6",
+        "Potential GDP Grwth (CBO)": "0.022278904085491824",
+        "Real Potential GDP (Estimated)": "23163.5302245549",
+        "Potential GDP Grwth (Estimated)": "0.020374592678579218"
+    },
+    {
+        "": "222",
+        "Date": "2025-09-30",
+        "Real Potential GDP (CBO)": "23375.8",
+        "Potential GDP Grwth (CBO)": "0.022442668626190265",
+        "Real Potential GDP (Estimated)": "23291.80974175863",
+        "Potential GDP Grwth (Estimated)": "0.020380920185594675"
+    },
+    {
+        "": "223",
+        "Date": "2025-12-31",
+        "Real Potential GDP (CBO)": "23506.6",
+        "Potential GDP Grwth (CBO)": "0.022524011692650392",
+        "Real Potential GDP (Estimated)": "23422.574937371097",
+        "Potential GDP Grwth (Estimated)": "0.020408432392332365"
+    },
+    {
+        "": "224",
+        "Date": "2026-03-31",
+        "Real Potential GDP (CBO)": "23637.9",
+        "Potential GDP Grwth (CBO)": "0.022550894162636448",
+        "Real Potential GDP (Estimated)": "23551.1723892622",
+        "Potential GDP Grwth (Estimated)": "0.020449492469494457"
+    },
+    {
+        "": "225",
+        "Date": "2026-06-30",
+        "Real Potential GDP (CBO)": "23768.4",
+        "Potential GDP Grwth (CBO)": "0.022490277729979136",
+        "Real Potential GDP (Estimated)": "23638.426012495787",
+        "Potential GDP Grwth (Estimated)": "0.020501874426613442"
+    },
+    {
+        "": "226",
+        "Date": "2026-09-30",
+        "Real Potential GDP (CBO)": "23898.7",
+        "Potential GDP Grwth (CBO)": "0.022369287896029322",
+        "Real Potential GDP (Estimated)": "23770.797207968277",
+        "Potential GDP Grwth (Estimated)": "0.0205646307230003"
+    },
+    {
+        "": "227",
+        "Date": "2026-12-31",
+        "Real Potential GDP (CBO)": "24028.6",
+        "Potential GDP Grwth (CBO)": "0.02220652923008859",
+        "Real Potential GDP (Estimated)": "23905.618879419093",
+        "Potential GDP Grwth (Estimated)": "0.02062300764709235"
+    },
+    {
+        "": "228",
+        "Date": "2027-03-31",
+        "Real Potential GDP (CBO)": "24159.4",
+        "Potential GDP Grwth (CBO)": "0.02206202750667363",
+        "Real Potential GDP (Estimated)": "24038.133167962784",
+        "Potential GDP Grwth (Estimated)": "0.020676710723862124"
+    },
+    {
+        "": "229",
+        "Date": "2027-06-30",
+        "Real Potential GDP (CBO)": "24288.1",
+        "Potential GDP Grwth (CBO)": "0.021865165513875517",
+        "Real Potential GDP (Estimated)": "24128.307247474393",
+        "Potential GDP Grwth (Estimated)": "0.020723936302681212"
+    },
+    {
+        "": "230",
+        "Date": "2027-09-30",
+        "Real Potential GDP (CBO)": "24416.4",
+        "Potential GDP Grwth (CBO)": "0.02166226614836786",
+        "Real Potential GDP (Estimated)": "24264.33877802764",
+        "Potential GDP Grwth (Estimated)": "0.020762516534107656"
+    },
+    {
+        "": "231",
+        "Date": "2027-12-31",
+        "Real Potential GDP (CBO)": "24543.9",
+        "Potential GDP Grwth (CBO)": "0.021445277710728128",
+        "Real Potential GDP (Estimated)": "24402.649440087458",
+        "Potential GDP Grwth (Estimated)": "0.02079136972673279"
+    },
+    {
+        "": "232",
+        "Date": "2028-03-31",
+        "Real Potential GDP (CBO)": "24670.4",
+        "Potential GDP Grwth (CBO)": "0.021151187529491633",
+        "Real Potential GDP (Estimated)": "24538.39868131416",
+        "Potential GDP Grwth (Estimated)": "0.02081132964260779"
+    },
+    {
+        "": "233",
+        "Date": "2028-06-30",
+        "Real Potential GDP (CBO)": "24798.6",
+        "Potential GDP Grwth (CBO)": "0.02101852347445865",
+        "Real Potential GDP (Estimated)": "24630.408478412864",
+        "Potential GDP Grwth (Estimated)": "0.020809633505932235"
+    },
+    {
+        "": "234",
+        "Date": "2028-09-30",
+        "Real Potential GDP (CBO)": "24926.8",
+        "Potential GDP Grwth (CBO)": "0.02090398256909287",
+        "Real Potential GDP (Estimated)": "24768.662297397426",
+        "Potential GDP Grwth (Estimated)": "0.02078455646302113"
+    },
+    {
+        "": "235",
+        "Date": "2028-12-31",
+        "Real Potential GDP (CBO)": "25055.5",
+        "Potential GDP Grwth (CBO)": "0.02084428310089259",
+        "Real Potential GDP (Estimated)": "24908.708662124525",
+        "Potential GDP Grwth (Estimated)": "0.020737880256794572"
+    },
+    {
+        "": "236",
+        "Date": "2029-03-31",
+        "Real Potential GDP (CBO)": "25183.9",
+        "Potential GDP Grwth (CBO)": "0.020814417277384978",
+        "Real Potential GDP (Estimated)": "25045.49326619245",
+        "Potential GDP Grwth (Estimated)": "0.02066534949831267"
+    },
+    {
+        "": "237",
+        "Date": "2029-06-30",
+        "Real Potential GDP (CBO)": "25312.8",
+        "Potential GDP Grwth (CBO)": "0.02073504149427796",
+        "Real Potential GDP (Estimated)": "25137.447329578183",
+        "Potential GDP Grwth (Estimated)": "0.020585888845883638"
+    },
+    {
+        "": "238",
+        "Date": "2029-09-30",
+        "Real Potential GDP (CBO)": "25441.3",
+        "Potential GDP Grwth (CBO)": "0.020640435194248852",
+        "Real Potential GDP (Estimated)": "25278.72265936898",
+        "Potential GDP Grwth (Estimated)": "0.02059297170946328"
+    },
+    {
+        "": "239",
+        "Date": "2029-12-31",
+        "Real Potential GDP (CBO)": "25569.2",
+        "Potential GDP Grwth (CBO)": "0.020502484484444583",
+        "Real Potential GDP (Estimated)": "25421.863203149154",
+        "Potential GDP Grwth (Estimated)": "0.02060141085534939"
+    },
+    {
+        "": "240",
+        "Date": "2030-03-31",
+        "Real Potential GDP (CBO)": "25696.7",
+        "Potential GDP Grwth (CBO)": "0.02036221554246964",
+        "Real Potential GDP (Estimated)": "25561.717132770587",
+        "Potential GDP Grwth (Estimated)": "0.020611447380633585"
+    },
+    {
+        "": "241",
+        "Date": "2030-06-30",
+        "Real Potential GDP (CBO)": "25823.8",
+        "Potential GDP Grwth (CBO)": "0.020187415062735026",
+        "Real Potential GDP (Estimated)": "25655.854331741357",
+        "Potential GDP Grwth (Estimated)": "0.02062289759840441"
+    },
+    {
+        "": "242",
+        "Date": "2030-09-30",
+        "Real Potential GDP (CBO)": "25950.8",
+        "Potential GDP Grwth (CBO)": "0.02002649235691578",
+        "Real Potential GDP (Estimated)": "25800.357009751773",
+        "Potential GDP Grwth (Estimated)": "0.02063531284439568"
+    },
+    {
+        "": "243",
+        "Date": "2030-12-31",
+        "Real Potential GDP (CBO)": "26077.5",
+        "Potential GDP Grwth (CBO)": "0.019879386136445465",
+        "Real Potential GDP (Estimated)": "25946.774660202165",
+        "Potential GDP Grwth (Estimated)": "0.02064803247733571"
+    },
+    {
+        "": "244",
+        "Date": "2031-03-31",
+        "Real Potential GDP (CBO)": "26204.2",
+        "Potential GDP Grwth (CBO)": "0.019749617655185236",
+        "Real Potential GDP (Estimated)": "26089.822527784396",
+        "Potential GDP Grwth (Estimated)": "0.020660012481585888"
+    },
+    {
+        "": "245",
+        "Date": "2031-06-30",
+        "Real Potential GDP (CBO)": "26330.7",
+        "Potential GDP Grwth (CBO)": "0.01962917928422625",
+        "Real Potential GDP (Estimated)": "26186.174655999093",
+        "Potential GDP Grwth (Estimated)": "0.02067053848219058"
+    },
+    {
+        "": "246",
+        "Date": "2031-09-30",
+        "Real Potential GDP (CBO)": "26457.3",
+        "Potential GDP Grwth (CBO)": "0.01951770272978104",
+        "Real Potential GDP (Estimated)": "26333.881861818532",
+        "Potential GDP Grwth (Estimated)": "0.02067897168496935"
+    },
+    {
+        "": "247",
+        "Date": "2031-12-31",
+        "Real Potential GDP (CBO)": "26583.7",
+        "Potential GDP Grwth (CBO)": "0.01941136995494208",
+        "Real Potential GDP (Estimated)": "26483.4756176755",
+        "Potential GDP Grwth (Estimated)": "0.020684688733067835"
+    },
+    {
+        "": "248",
+        "Date": "2032-03-31",
+        "Real Potential GDP (CBO)": "26710.0",
+        "Potential GDP Grwth (CBO)": "0.01930224925775259",
+        "Real Potential GDP (Estimated)": "26629.56284830192",
+        "Potential GDP Grwth (Estimated)": "0.020687772787366665"
+    },
+    {
+        "": "249",
+        "Date": "2032-06-30",
+        "Real Potential GDP (CBO)": "26835.9",
+        "Potential GDP Grwth (CBO)": "0.01918672879946226",
+        "Real Potential GDP (Estimated)": "26727.922771109046",
+        "Potential GDP Grwth (Estimated)": "0.020688325890541703"
+    },
+    {
+        "": "250",
+        "Date": "2032-09-30",
+        "Real Potential GDP (CBO)": "26961.6",
+        "Potential GDP Grwth (CBO)": "0.01906090190609011",
+        "Real Potential GDP (Estimated)": "26878.638903719544",
+        "Potential GDP Grwth (Estimated)": "0.02068654536993475"
+    },
+    {
+        "": "251",
+        "Date": "2032-12-31",
+        "Real Potential GDP (CBO)": "27087.3",
+        "Potential GDP Grwth (CBO)": "0.018943939331244275",
+        "Real Potential GDP (Estimated)": "27031.226638570402",
+        "Potential GDP Grwth (Estimated)": "0.020682746811726105"
+    },
+    {
+        "": "252",
+        "Date": "2033-03-31",
+        "Real Potential GDP (CBO)": "27212.8",
+        "Potential GDP Grwth (CBO)": "0.018824410333208474",
+        "Real Potential GDP (Estimated)": "27180.1907253632",
+        "Potential GDP Grwth (Estimated)": "0.02067731566597586"
+    },
+    {
+        "": "253",
+        "Date": "2033-06-30",
+        "Real Potential GDP (CBO)": "27338.2",
+        "Potential GDP Grwth (CBO)": "0.01871746429223542",
+        "Real Potential GDP (Estimated)": "27280.40537158221",
+        "Potential GDP Grwth (Estimated)": "0.020670614967144285"
+    },
+    {
+        "": "254",
+        "Date": "2033-09-30",
+        "Real Potential GDP (CBO)": "27463.3",
+        "Potential GDP Grwth (CBO)": "0.01860794611595762",
+        "Real Potential GDP (Estimated)": "27434.050067883985",
+        "Potential GDP Grwth (Estimated)": "0.02066366404020492"
+    },
+    {
+        "": "255",
+        "Date": "2033-12-31",
+        "Real Potential GDP (CBO)": "27588.3",
+        "Potential GDP Grwth (CBO)": "0.018495752622077477",
+        "Real Potential GDP (Estimated)": "27589.627430900455",
+        "Potential GDP Grwth (Estimated)": "0.020657619419063966"
+    },
+    {
+        "": "256",
+        "Date": "2034-03-31",
+        "Real Potential GDP (CBO)": "27712.7",
+        "Potential GDP Grwth (CBO)": "0.018370031749764815",
+        "Real Potential GDP (Estimated)": "27741.559685861466",
+        "Potential GDP Grwth (Estimated)": "0.020653606377177613"
+    },
+    {
+        "": "257",
+        "Date": "2034-06-30",
+        "Real Potential GDP (CBO)": "27837.2",
+        "Potential GDP Grwth (CBO)": "0.018252847663708716",
+        "Real Potential GDP (Estimated)": "27843.82810808146",
+        "Potential GDP Grwth (Estimated)": "0.020653019221120728"
+    },
+    {
+        "": "258",
+        "Date": "2034-09-30",
+        "Real Potential GDP (CBO)": "27961.1",
+        "Potential GDP Grwth (CBO)": "0.018126008163621865",
+        "Real Potential GDP (Estimated)": "28000.738114152948",
+        "Potential GDP Grwth (Estimated)": "0.02065637573988255"
+    },
+    {
+        "": "259",
+        "Date": "2034-12-31",
+        "Real Potential GDP (CBO)": "28085.0",
+        "Potential GDP Grwth (CBO)": "0.018004008945821326",
+        "Real Potential GDP (Estimated)": "28159.616606315354",
+        "Potential GDP Grwth (Estimated)": "0.020659545941403623"
+    }
+]

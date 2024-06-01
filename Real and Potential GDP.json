@@ -1,0 +1,681 @@
+[
+    {
+        "": "120",
+        "Date": "2000-03-31",
+        "Real GDP": "13878.1",
+        "Real GDP Growth": "0.042243684099852796",
+        "Real vs Potential GDP Growth (Actual)": "-0.0026416906079895774"
+    },
+    {
+        "": "121",
+        "Date": "2000-06-30",
+        "Real GDP": "14130.9",
+        "Real GDP Growth": "0.05244773473750053",
+        "Real vs Potential GDP Growth (Actual)": "0.00797254978998807"
+    },
+    {
+        "": "122",
+        "Date": "2000-09-30",
+        "Real GDP": "14145.3",
+        "Real GDP Growth": "0.03972862519110909",
+        "Real vs Potential GDP Growth (Actual)": "-0.0036838022253122826"
+    },
+    {
+        "": "123",
+        "Date": "2000-12-31",
+        "Real GDP": "14229.8",
+        "Real GDP Growth": "0.02905698582586047",
+        "Real vs Potential GDP Growth (Actual)": "-0.012603357675615934"
+    },
+    {
+        "": "124",
+        "Date": "2001-03-31",
+        "Real GDP": "14183.1",
+        "Real GDP Growth": "0.02197707178936592",
+        "Real vs Potential GDP Growth (Actual)": "-0.017372620761415325"
+    },
+    {
+        "": "125",
+        "Date": "2001-06-30",
+        "Real GDP": "14271.7",
+        "Real GDP Growth": "0.009963979647439336",
+        "Real vs Potential GDP Growth (Actual)": "-0.02693717001768836"
+    },
+    {
+        "": "126",
+        "Date": "2001-09-30",
+        "Real GDP": "14214.5",
+        "Real GDP Growth": "0.004892084296550747",
+        "Real vs Potential GDP Growth (Actual)": "-0.02960746987916929"
+    },
+    {
+        "": "127",
+        "Date": "2001-12-31",
+        "Real GDP": "14253.6",
+        "Real GDP Growth": "0.0016725463463997947",
+        "Real vs Potential GDP Growth (Actual)": "-0.030600946507849613"
+    },
+    {
+        "": "128",
+        "Date": "2002-03-31",
+        "Real GDP": "14372.8",
+        "Real GDP Growth": "0.01337507315043962",
+        "Real vs Potential GDP Growth (Actual)": "-0.01686875987198544"
+    },
+    {
+        "": "129",
+        "Date": "2002-06-30",
+        "Real GDP": "14460.8",
+        "Real GDP Growth": "0.013249998248281436",
+        "Real vs Potential GDP Growth (Actual)": "-0.015268825642827943"
+    },
+    {
+        "": "130",
+        "Date": "2002-09-30",
+        "Real GDP": "14519.6",
+        "Real GDP Growth": "0.02146399803018051",
+        "Real vs Potential GDP Growth (Actual)": "-0.005720583782554911"
+    },
+    {
+        "": "131",
+        "Date": "2002-12-31",
+        "Real GDP": "14537.6",
+        "Real GDP Growth": "0.01992479093001065",
+        "Real vs Potential GDP Growth (Actual)": "-0.0062699585541698966"
+    },
+    {
+        "": "132",
+        "Date": "2003-03-31",
+        "Real GDP": "14614.1",
+        "Real GDP Growth": "0.016788656350885",
+        "Real vs Potential GDP Growth (Actual)": "-0.008783218347817812"
+    },
+    {
+        "": "133",
+        "Date": "2003-06-30",
+        "Real GDP": "14743.6",
+        "Real GDP Growth": "0.01955631776941802",
+        "Real vs Potential GDP Growth (Actual)": "-0.005679844529534073"
+    },
+    {
+        "": "134",
+        "Date": "2003-09-30",
+        "Real GDP": "14988.8",
+        "Real GDP Growth": "0.03231493980550426",
+        "Real vs Potential GDP Growth (Actual)": "0.0072809335476777814"
+    },
+    {
+        "": "135",
+        "Date": "2003-12-31",
+        "Real GDP": "15162.8",
+        "Real GDP Growth": "0.043005723090468795",
+        "Real vs Potential GDP Growth (Actual)": "0.017990158804601197"
+    },
+    {
+        "": "136",
+        "Date": "2004-03-31",
+        "Real GDP": "15248.7",
+        "Real GDP Growth": "0.043423816724943665",
+        "Real vs Potential GDP Growth (Actual)": "0.01828753406777861"
+    },
+    {
+        "": "137",
+        "Date": "2004-06-30",
+        "Real GDP": "15366.9",
+        "Real GDP Growth": "0.04227597059062904",
+        "Real vs Potential GDP Growth (Actual)": "0.01695329952758695"
+    },
+    {
+        "": "138",
+        "Date": "2004-09-30",
+        "Real GDP": "15512.6",
+        "Real GDP Growth": "0.03494609308283536",
+        "Real vs Potential GDP Growth (Actual)": "0.009289312291635987"
+    },
+    {
+        "": "139",
+        "Date": "2004-12-31",
+        "Real GDP": "15670.9",
+        "Real GDP Growth": "0.0335096420186245",
+        "Real vs Potential GDP Growth (Actual)": "0.007521999010011271"
+    },
+    {
+        "": "140",
+        "Date": "2005-03-31",
+        "Real GDP": "15844.7",
+        "Real GDP Growth": "0.039085299074675284",
+        "Real vs Potential GDP Growth (Actual)": "0.013017413305087322"
+    },
+    {
+        "": "141",
+        "Date": "2005-06-30",
+        "Real GDP": "15922.8",
+        "Real GDP Growth": "0.03617515569177909",
+        "Real vs Potential GDP Growth (Actual)": "0.010326875711399897"
+    },
+    {
+        "": "142",
+        "Date": "2005-09-30",
+        "Real GDP": "16047.6",
+        "Real GDP Growth": "0.03448809354975957",
+        "Real vs Potential GDP Growth (Actual)": "0.009123813508896239"
+    },
+    {
+        "": "143",
+        "Date": "2005-12-31",
+        "Real GDP": "16136.7",
+        "Real GDP Growth": "0.029723883120944095",
+        "Real vs Potential GDP Growth (Actual)": "0.005094293420602192"
+    },
+    {
+        "": "144",
+        "Date": "2006-03-31",
+        "Real GDP": "16353.8",
+        "Real GDP Growth": "0.03213061780910964",
+        "Real vs Potential GDP Growth (Actual)": "0.008277990660598311"
+    },
+    {
+        "": "145",
+        "Date": "2006-06-30",
+        "Real GDP": "16396.2",
+        "Real GDP Growth": "0.02973095184264074",
+        "Real vs Potential GDP Growth (Actual)": "0.006608519435578053"
+    },
+    {
+        "": "146",
+        "Date": "2006-09-30",
+        "Real GDP": "16420.7",
+        "Real GDP Growth": "0.023249582492085974",
+        "Real vs Potential GDP Growth (Actual)": "0.001000071098369748"
+    },
+    {
+        "": "147",
+        "Date": "2006-12-31",
+        "Real GDP": "16561.9",
+        "Real GDP Growth": "0.026349873270247404",
+        "Real vs Potential GDP Growth (Actual)": "0.005079728611597556"
+    },
+    {
+        "": "148",
+        "Date": "2007-03-31",
+        "Real GDP": "16611.7",
+        "Real GDP Growth": "0.01577003509887609",
+        "Real vs Potential GDP Growth (Actual)": "-0.004753307029880416"
+    },
+    {
+        "": "149",
+        "Date": "2007-06-30",
+        "Real GDP": "16713.3",
+        "Real GDP Growth": "0.019339847037728175",
+        "Real vs Potential GDP Growth (Actual)": "-0.0006744876198780947"
+    },
+    {
+        "": "150",
+        "Date": "2007-09-30",
+        "Real GDP": "16809.6",
+        "Real GDP Growth": "0.023683521408953245",
+        "Real vs Potential GDP Growth (Actual)": "0.0038399640869668517"
+    },
+    {
+        "": "151",
+        "Date": "2007-12-31",
+        "Real GDP": "16915.2",
+        "Real GDP Growth": "0.021332093539992325",
+        "Real vs Potential GDP Growth (Actual)": "0.0013498823289099793"
+    },
+    {
+        "": "152",
+        "Date": "2008-03-31",
+        "Real GDP": "16843.0",
+        "Real GDP Growth": "0.01392392109176055",
+        "Real vs Potential GDP Growth (Actual)": "-0.006113278978126191"
+    },
+    {
+        "": "153",
+        "Date": "2008-06-30",
+        "Real GDP": "16943.3",
+        "Real GDP Growth": "0.013761495336049645",
+        "Real vs Potential GDP Growth (Actual)": "-0.006100385451615953"
+    },
+    {
+        "": "154",
+        "Date": "2008-09-30",
+        "Real GDP": "16854.3",
+        "Real GDP Growth": "0.0026591947458596277",
+        "Real vs Potential GDP Growth (Actual)": "-0.016782640127988024"
+    },
+    {
+        "": "155",
+        "Date": "2008-12-31",
+        "Real GDP": "16485.4",
+        "Real GDP Growth": "-0.025409099508134636",
+        "Real vs Potential GDP Growth (Actual)": "-0.0441636904352376"
+    },
+    {
+        "": "156",
+        "Date": "2009-03-31",
+        "Real GDP": "16298.3",
+        "Real GDP Growth": "-0.03233984444576388",
+        "Real vs Potential GDP Growth (Actual)": "-0.05012250700398124"
+    },
+    {
+        "": "157",
+        "Date": "2009-06-30",
+        "Real GDP": "16269.1",
+        "Real GDP Growth": "-0.03979154001876839",
+        "Real vs Potential GDP Growth (Actual)": "-0.056523099906589436"
+    },
+    {
+        "": "158",
+        "Date": "2009-09-30",
+        "Real GDP": "16326.3",
+        "Real GDP Growth": "-0.03132731706448799",
+        "Real vs Potential GDP Growth (Actual)": "-0.046992134977035804"
+    },
+    {
+        "": "159",
+        "Date": "2009-12-31",
+        "Real GDP": "16502.8",
+        "Real GDP Growth": "0.001055479393887726",
+        "Real vs Potential GDP Growth (Actual)": "-0.013706482359477912"
+    },
+    {
+        "": "160",
+        "Date": "2010-03-31",
+        "Real GDP": "16582.7",
+        "Real GDP Growth": "0.01744967266524733",
+        "Real vs Potential GDP Growth (Actual)": "0.003213819843466581"
+    },
+    {
+        "": "161",
+        "Date": "2010-06-30",
+        "Real GDP": "16743.2",
+        "Real GDP Growth": "0.029141132576479434",
+        "Real vs Potential GDP Growth (Actual)": "0.015087529783456732"
+    },
+    {
+        "": "162",
+        "Date": "2010-09-30",
+        "Real GDP": "16872.3",
+        "Real GDP Growth": "0.0334429723819849",
+        "Real vs Potential GDP Growth (Actual)": "0.019184648306487473"
+    },
+    {
+        "": "163",
+        "Date": "2010-12-31",
+        "Real GDP": "16960.9",
+        "Real GDP Growth": "0.027758925758053277",
+        "Real vs Potential GDP Growth (Actual)": "0.01306833016742881"
+    },
+    {
+        "": "164",
+        "Date": "2011-03-31",
+        "Real GDP": "16920.6",
+        "Real GDP Growth": "0.02037665760099361",
+        "Real vs Potential GDP Growth (Actual)": "0.005156642333158379"
+    },
+    {
+        "": "165",
+        "Date": "2011-06-30",
+        "Real GDP": "17035.1",
+        "Real GDP Growth": "0.01743394333221837",
+        "Real vs Potential GDP Growth (Actual)": "0.001648418869420576"
+    },
+    {
+        "": "166",
+        "Date": "2011-09-30",
+        "Real GDP": "17031.3",
+        "Real GDP Growth": "0.00942373001902519",
+        "Real vs Potential GDP Growth (Actual)": "-0.006871699424739752"
+    },
+    {
+        "": "167",
+        "Date": "2011-12-31",
+        "Real GDP": "17222.6",
+        "Real GDP Growth": "0.015429605740261199",
+        "Real vs Potential GDP Growth (Actual)": "-0.0013142840248103749"
+    },
+    {
+        "": "168",
+        "Date": "2012-03-31",
+        "Real GDP": "17367.0",
+        "Real GDP Growth": "0.02638204318995796",
+        "Real vs Potential GDP Growth (Actual)": "0.00926772679785115"
+    },
+    {
+        "": "169",
+        "Date": "2012-06-30",
+        "Real GDP": "17444.5",
+        "Real GDP Growth": "0.024032732417185843",
+        "Real vs Potential GDP Growth (Actual)": "0.006603683814454309"
+    },
+    {
+        "": "170",
+        "Date": "2012-09-30",
+        "Real GDP": "17469.7",
+        "Real GDP Growth": "0.025740841861748853",
+        "Real vs Potential GDP Growth (Actual)": "0.008076266744109883"
+    },
+    {
+        "": "171",
+        "Date": "2012-12-31",
+        "Real GDP": "17489.9",
+        "Real GDP Growth": "0.015520304715896716",
+        "Real vs Potential GDP Growth (Actual)": "-0.0023381690649071363"
+    },
+    {
+        "": "172",
+        "Date": "2013-03-31",
+        "Real GDP": "17662.4",
+        "Real GDP Growth": "0.017009270455461634",
+        "Real vs Potential GDP Growth (Actual)": "-0.0010490462181700355"
+    },
+    {
+        "": "173",
+        "Date": "2013-06-30",
+        "Real GDP": "17709.7",
+        "Real GDP Growth": "0.015202499355097654",
+        "Real vs Potential GDP Growth (Actual)": "-0.00298509601715069"
+    },
+    {
+        "": "174",
+        "Date": "2013-09-30",
+        "Real GDP": "17860.5",
+        "Real GDP Growth": "0.0223701609071707",
+        "Real vs Potential GDP Growth (Actual)": "0.004096388910400428"
+    },
+    {
+        "": "175",
+        "Date": "2013-12-31",
+        "Real GDP": "18016.1",
+        "Real GDP Growth": "0.0300859353112366",
+        "Real vs Potential GDP Growth (Actual)": "0.011725966957241818"
+    },
+    {
+        "": "176",
+        "Date": "2014-03-31",
+        "Real GDP": "17954.0",
+        "Real GDP Growth": "0.016509647613008438",
+        "Real vs Potential GDP Growth (Actual)": "-0.0019013697309340216"
+    },
+    {
+        "": "177",
+        "Date": "2014-06-30",
+        "Real GDP": "18185.9",
+        "Real GDP Growth": "0.026889218902635292",
+        "Real vs Potential GDP Growth (Actual)": "0.008410002088408364"
+    },
+    {
+        "": "178",
+        "Date": "2014-09-30",
+        "Real GDP": "18406.9",
+        "Real GDP Growth": "0.030592648582066673",
+        "Real vs Potential GDP Growth (Actual)": "0.01197445009548459"
+    },
+    {
+        "": "179",
+        "Date": "2014-12-31",
+        "Real GDP": "18500.0",
+        "Real GDP Growth": "0.026859309173461687",
+        "Real vs Potential GDP Growth (Actual)": "0.00811347540987617"
+    },
+    {
+        "": "180",
+        "Date": "2015-03-31",
+        "Real GDP": "18666.6",
+        "Real GDP Growth": "0.03969031970591508",
+        "Real vs Potential GDP Growth (Actual)": "0.020838275773242376"
+    },
+    {
+        "": "181",
+        "Date": "2015-06-30",
+        "Real GDP": "18782.2",
+        "Real GDP Growth": "0.03278913883833079",
+        "Real vs Potential GDP Growth (Actual)": "0.013845441217542165"
+    },
+    {
+        "": "182",
+        "Date": "2015-09-30",
+        "Real GDP": "18857.4",
+        "Real GDP Growth": "0.02447451770803344",
+        "Real vs Potential GDP Growth (Actual)": "0.005536012399706802"
+    },
+    {
+        "": "183",
+        "Date": "2015-12-31",
+        "Real GDP": "18892.2",
+        "Real GDP Growth": "0.021200000000000108",
+        "Real vs Potential GDP Growth (Actual)": "0.002325206634596011"
+    },
+    {
+        "": "184",
+        "Date": "2016-03-31",
+        "Real GDP": "19001.7",
+        "Real GDP Growth": "0.017951849828035327",
+        "Real vs Potential GDP Growth (Actual)": "-0.0008154683855223777"
+    },
+    {
+        "": "185",
+        "Date": "2016-06-30",
+        "Real GDP": "19062.7",
+        "Real GDP Growth": "0.01493435273823085",
+        "Real vs Potential GDP Growth (Actual)": "-0.0036992104917619173"
+    },
+    {
+        "": "186",
+        "Date": "2016-09-30",
+        "Real GDP": "19197.9",
+        "Real GDP Growth": "0.018056571955836986",
+        "Real vs Potential GDP Growth (Actual)": "-0.0004451632032158592"
+    },
+    {
+        "": "187",
+        "Date": "2016-12-31",
+        "Real GDP": "19304.4",
+        "Real GDP Growth": "0.021818528281513094",
+        "Real vs Potential GDP Growth (Actual)": "0.00342412681312787"
+    },
+    {
+        "": "188",
+        "Date": "2017-03-31",
+        "Real GDP": "19398.3",
+        "Real GDP Growth": "0.020871816732187076",
+        "Real vs Potential GDP Growth (Actual)": "0.0025316215092234806"
+    },
+    {
+        "": "189",
+        "Date": "2017-06-30",
+        "Real GDP": "19506.9",
+        "Real GDP Growth": "0.023302050601436308",
+        "Real vs Potential GDP Growth (Actual)": "0.004983024464503272"
+    },
+    {
+        "": "190",
+        "Date": "2017-09-30",
+        "Real GDP": "19660.8",
+        "Real GDP Growth": "0.024112012251339854",
+        "Real vs Potential GDP Growth (Actual)": "0.005658665546462993"
+    },
+    {
+        "": "191",
+        "Date": "2017-12-31",
+        "Real GDP": "19882.4",
+        "Real GDP Growth": "0.02994136051884544",
+        "Real vs Potential GDP Growth (Actual)": "0.011219950242502108"
+    },
+    {
+        "": "192",
+        "Date": "2018-03-31",
+        "Real GDP": "20044.1",
+        "Real GDP Growth": "0.03329157709696218",
+        "Real vs Potential GDP Growth (Actual)": "0.014195207840752344"
+    },
+    {
+        "": "193",
+        "Date": "2018-06-30",
+        "Real GDP": "20150.5",
+        "Real GDP Growth": "0.03299345359847017",
+        "Real vs Potential GDP Growth (Actual)": "0.013406489342259853"
+    },
+    {
+        "": "194",
+        "Date": "2018-09-30",
+        "Real GDP": "20276.2",
+        "Real GDP Growth": "0.03130086263020848",
+        "Real vs Potential GDP Growth (Actual)": "0.011255360849484752"
+    },
+    {
+        "": "195",
+        "Date": "2018-12-31",
+        "Real GDP": "20304.9",
+        "Real GDP Growth": "0.021249949704261084",
+        "Real vs Potential GDP Growth (Actual)": "0.00083679672560244"
+    },
+    {
+        "": "196",
+        "Date": "2019-03-31",
+        "Real GDP": "20415.2",
+        "Real GDP Growth": "0.018514176241387847",
+        "Real vs Potential GDP Growth (Actual)": "-0.0021652528898643553"
+    },
+    {
+        "": "197",
+        "Date": "2019-06-30",
+        "Real GDP": "20584.5",
+        "Real GDP Growth": "0.021537927098583154",
+        "Real vs Potential GDP Growth (Actual)": "0.0006928398733136998"
+    },
+    {
+        "": "198",
+        "Date": "2019-09-30",
+        "Real GDP": "20817.6",
+        "Real GDP Growth": "0.026701255659344447",
+        "Real vs Potential GDP Growth (Actual)": "0.005806898026079255"
+    },
+    {
+        "": "199",
+        "Date": "2019-12-31",
+        "Real GDP": "20951.1",
+        "Real GDP Growth": "0.03182483045964268",
+        "Real vs Potential GDP Growth (Actual)": "0.011059403621044517"
+    },
+    {
+        "": "200",
+        "Date": "2020-03-31",
+        "Real GDP": "20665.6",
+        "Real GDP Growth": "0.012265370900113481",
+        "Real vs Potential GDP Growth (Actual)": "-0.008274079057890349"
+    },
+    {
+        "": "201",
+        "Date": "2020-06-30",
+        "Real GDP": "19034.8",
+        "Real GDP Growth": "-0.07528480167116036",
+        "Real vs Potential GDP Growth (Actual)": "-0.09553284420943331"
+    },
+    {
+        "": "202",
+        "Date": "2020-09-30",
+        "Real GDP": "20511.8",
+        "Real GDP Growth": "-0.01468949350549531",
+        "Real vs Potential GDP Growth (Actual)": "-0.03452016955633419"
+    },
+    {
+        "": "203",
+        "Date": "2020-12-31",
+        "Real GDP": "20724.1",
+        "Real GDP Growth": "-0.01083475330650896",
+        "Real vs Potential GDP Growth (Actual)": "-0.030421984155602377"
+    },
+    {
+        "": "204",
+        "Date": "2021-03-31",
+        "Real GDP": "20990.5",
+        "Real GDP Growth": "0.01572177918860329",
+        "Real vs Potential GDP Growth (Actual)": "-0.003680074138507683"
+    },
+    {
+        "": "205",
+        "Date": "2021-06-30",
+        "Real GDP": "21309.5",
+        "Real GDP Growth": "0.1195021749637506",
+        "Real vs Potential GDP Growth (Actual)": "0.10025542646487473"
+    },
+    {
+        "": "206",
+        "Date": "2021-09-30",
+        "Real GDP": "21483.1",
+        "Real GDP Growth": "0.047353230823233394",
+        "Real vs Potential GDP Growth (Actual)": "0.027956138582070356"
+    },
+    {
+        "": "207",
+        "Date": "2021-12-31",
+        "Real GDP": "21847.6",
+        "Real GDP Growth": "0.05421224564637317",
+        "Real vs Potential GDP Growth (Actual)": "0.03466329953467673"
+    },
+    {
+        "": "208",
+        "Date": "2022-03-31",
+        "Real GDP": "21738.9",
+        "Real GDP Growth": "0.03565422453014455",
+        "Real vs Potential GDP Growth (Actual)": "0.01592202538266574"
+    },
+    {
+        "": "209",
+        "Date": "2022-06-30",
+        "Real GDP": "21708.2",
+        "Real GDP Growth": "0.01870996503906719",
+        "Real vs Potential GDP Growth (Actual)": "-0.0012423666350835916"
+    },
+    {
+        "": "210",
+        "Date": "2022-09-30",
+        "Real GDP": "21851.1",
+        "Real GDP Growth": "0.017129743845162082",
+        "Real vs Potential GDP Growth (Actual)": "-0.003055708836446458"
+    },
+    {
+        "": "211",
+        "Date": "2022-12-31",
+        "Real GDP": "21990.0",
+        "Real GDP Growth": "0.006517878393965448",
+        "Real vs Potential GDP Growth (Actual)": "-0.013874293015264438"
+    },
+    {
+        "": "212",
+        "Date": "2023-03-31",
+        "Real GDP": "22112.3",
+        "Real GDP Growth": "0.017176582071769753",
+        "Real vs Potential GDP Growth (Actual)": "-0.003668670304349142"
+    },
+    {
+        "": "213",
+        "Date": "2023-06-30",
+        "Real GDP": "22225.4",
+        "Real GDP Growth": "0.023825098349932405",
+        "Real vs Potential GDP Growth (Actual)": "0.0025139239857785434"
+    },
+    {
+        "": "214",
+        "Date": "2023-09-30",
+        "Real GDP": "22490.7",
+        "Real GDP Growth": "0.02927083762373539",
+        "Real vs Potential GDP Growth (Actual)": "0.0075527570361826335"
+    },
+    {
+        "": "215",
+        "Date": "2023-12-31",
+        "Real GDP": "22679.3",
+        "Real GDP Growth": "0.03134606639381543",
+        "Real vs Potential GDP Growth (Actual)": "0.009157570967381012"
+    },
+    {
+        "": "216",
+        "Date": "2024-03-31",
+        "Real GDP": "22749.8",
+        "Real GDP Growth": "0.028830108129864307",
+        "Real vs Potential GDP Growth (Actual)": "0.006575545582973241"
+    }
+]
