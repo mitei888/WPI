@@ -686,261 +686,261 @@
     {
         "Date": "2019-03-31",
         "S&P Sales Revenue": "2951619.0",
-        "Nominal GDP": "21104.13",
+        "Nominal GDP": "21111.6",
         "Sales Growth QoQ": "-0.05087570590584578",
         "Sales": "2.047940695305248",
-        "GDP Growth QoQ": "0.008904348291675968",
-        "GDP": "2.1099530302394083"
+        "GDP Growth QoQ": "0.00926145922123034",
+        "GDP": "2.1106998674289006"
     },
     {
         "Date": "2019-06-30",
         "S&P Sales Revenue": "3063177.0",
-        "Nominal GDP": "21384.78",
+        "Nominal GDP": "21397.94",
         "Sales Growth QoQ": "0.03779552848792478",
         "Sales": "2.125343696196238",
-        "GDP Growth QoQ": "0.013298344921112593",
-        "GDP": "2.1380119134028788"
+        "GDP Growth QoQ": "0.01356315958998855",
+        "GDP": "2.1393276265774066"
     },
     {
         "Date": "2019-09-30",
         "S&P Sales Revenue": "3101995.0",
-        "Nominal GDP": "21694.28",
+        "Nominal GDP": "21717.17",
         "Sales Growth QoQ": "0.012672463915731846",
         "Sales": "2.152277037494813",
-        "GDP Growth QoQ": "0.014472910172562026",
-        "GDP": "2.1689551677734262"
+        "GDP Growth QoQ": "0.014918725821270629",
+        "GDP": "2.1712436688801846"
     },
     {
         "Date": "2019-12-31",
         "S&P Sales Revenue": "3224860.0",
-        "Nominal GDP": "21902.39",
+        "Nominal GDP": "21933.22",
         "Sales Growth QoQ": "0.03960838105799658",
         "Sales": "2.2375252465382833",
-        "GDP Growth QoQ": "0.009592851203174213",
-        "GDP": "2.1897616319642323"
+        "GDP Growth QoQ": "0.009948349623823072",
+        "GDP": "2.192843960016717"
     },
     {
         "Date": "2020-03-31",
         "S&P Sales Revenue": "2970886.0",
-        "Nominal GDP": "21706.51",
+        "Nominal GDP": "21727.66",
         "Sales Growth QoQ": "-0.07875504673071076",
         "Sales": "2.061308841186016",
-        "GDP Growth QoQ": "-0.008943316231698972",
-        "GDP": "2.170177901217535"
+        "GDP Growth QoQ": "-0.009372084901350664",
+        "GDP": "2.1722924402480266"
     },
     {
         "Date": "2020-06-30",
         "S&P Sales Revenue": "2758648.0",
-        "Nominal GDP": "19913.14",
+        "Nominal GDP": "19935.44",
         "Sales Growth QoQ": "-0.07143929454041653",
         "Sales": "1.9140503917417635",
-        "GDP Growth QoQ": "-0.08261899310391208",
-        "GDP": "1.9908799881625812"
+        "GDP Growth QoQ": "-0.08248564272452719",
+        "GDP": "1.9931095021285365"
     },
     {
         "Date": "2020-09-30",
         "S&P Sales Revenue": "3037293.0",
-        "Nominal GDP": "21647.64",
+        "Nominal GDP": "21684.55",
         "Sales Growth QoQ": "0.10100781252265612",
         "Sales": "2.107384434869732",
-        "GDP Growth QoQ": "0.08710328958667501",
-        "GDP": "2.1642921843038225"
+        "GDP Growth QoQ": "0.08773872059006482",
+        "GDP": "2.1679823798411952"
     },
     {
         "Date": "2020-12-31",
         "S&P Sales Revenue": "3286965.0",
-        "Nominal GDP": "22024.5",
+        "Nominal GDP": "22068.77",
         "Sales Growth QoQ": "0.08220214513384128",
         "Sales": "2.2806159560376917",
-        "GDP Growth QoQ": "0.01740882608912564",
-        "GDP": "2.2019699705464215"
+        "GDP Growth QoQ": "0.01771860610434617",
+        "GDP": "2.2063960056707645"
     },
     {
         "Date": "2021-03-31",
         "S&P Sales Revenue": "3283825.0",
-        "Nominal GDP": "22600.19",
+        "Nominal GDP": "22656.79",
         "Sales Growth QoQ": "-0.000955288541253152",
         "Sales": "2.27843730974789",
-        "GDP Growth QoQ": "0.026138618356829735",
-        "GDP": "2.259526423239734"
+        "GDP Growth QoQ": "0.02664489230709277",
+        "GDP": "2.265185189628662"
     },
     {
         "Date": "2021-06-30",
         "S&P Sales Revenue": "3448606.0",
-        "Nominal GDP": "23292.36",
+        "Nominal GDP": "23368.86",
         "Sales Growth QoQ": "0.05017959239606262",
         "Sales": "2.3927683652510203",
-        "GDP Growth QoQ": "0.03062673366905333",
-        "GDP": "2.3287283372224863"
+        "GDP Growth QoQ": "0.03142854746855139",
+        "GDP": "2.336376669885966"
     },
     {
         "Date": "2021-09-30",
-        "S&P Sales Revenue": "3548954.0",
-        "Nominal GDP": "23828.97",
-        "Sales Growth QoQ": "0.029098134144637022",
-        "Sales": "2.4623934601201385",
-        "GDP Growth QoQ": "0.023038026202583106",
-        "GDP": "2.3823776416741156"
+        "S&P Sales Revenue": "3559485.64",
+        "Nominal GDP": "23921.99",
+        "Sales Growth QoQ": "0.03215201736585738",
+        "Sales": "2.4697006952830454",
+        "GDP Growth QoQ": "0.023669532874089683",
+        "GDP": "2.3916776142800877"
     },
     {
         "Date": "2021-12-31",
-        "S&P Sales Revenue": "3657789.0",
-        "Nominal GDP": "24654.6",
-        "Sales Growth QoQ": "0.03066678238151299",
-        "Sales": "2.5379071444993038",
-        "GDP Growth QoQ": "0.03464816146060845",
-        "GDP": "2.464922646862984"
+        "S&P Sales Revenue": "3805368.36",
+        "Nominal GDP": "24777.04",
+        "Sales Growth QoQ": "0.06907816040522063",
+        "Sales": "2.6403030760646926",
+        "GDP Growth QoQ": "0.03574326383381976",
+        "GDP": "2.4771639782527415"
     },
     {
         "Date": "2022-03-31",
-        "S&P Sales Revenue": "3917167.1",
-        "Nominal GDP": "25029.12",
-        "Sales Growth QoQ": "0.0709111706552783",
-        "Sales": "2.7178731111301437",
-        "GDP Growth QoQ": "0.015190674356915235",
-        "GDP": "2.5023664841064654"
+        "S&P Sales Revenue": "3713405.89",
+        "Nominal GDP": "25215.49",
+        "Sales Growth QoQ": "-0.024166509336299824",
+        "Sales": "2.5764961671263142",
+        "GDP Growth QoQ": "0.01769581838669998",
+        "GDP": "2.520999422125977"
     },
     {
         "Date": "2022-06-30",
         "S&P Sales Revenue": "3917167.1",
-        "Nominal GDP": "25544.27",
-        "Sales Growth QoQ": "0.0",
+        "Nominal GDP": "25805.79",
+        "Sales Growth QoQ": "0.05487178510399793",
         "Sales": "2.7178731111301437",
-        "GDP Growth QoQ": "0.020582026056049862",
-        "GDP": "2.5538702562841307"
+        "GDP Growth QoQ": "0.023410213325221862",
+        "GDP": "2.5800165563907074"
     },
     {
         "Date": "2022-09-30",
         "S&P Sales Revenue": "3984856.0",
-        "Nominal GDP": "25994.64",
+        "Nominal GDP": "26272.01",
         "Sales Growth QoQ": "0.017280064462912526",
         "Sales": "2.764838133692489",
-        "GDP Growth QoQ": "0.017630959898247145",
-        "GDP": "2.5988974403580025"
+        "GDP Growth QoQ": "0.018066488179590667",
+        "GDP": "2.626628395009888"
     },
     {
         "Date": "2022-12-31",
-        "S&P Sales Revenue": "4048286.7",
-        "Nominal GDP": "26408.41",
-        "Sales Growth QoQ": "0.015917940322059287",
-        "Sales": "2.80884866210476",
-        "GDP Growth QoQ": "0.01591751222559723",
-        "GDP": "2.640265422137974"
+        "S&P Sales Revenue": "4035693.83",
+        "Nominal GDP": "26734.28",
+        "Sales Growth QoQ": "0.012757758373201034",
+        "Sales": "2.80011127054315",
+        "GDP Growth QoQ": "0.017595532279410797",
+        "GDP": "2.6728453197203015"
     },
     {
         "Date": "2023-03-31",
         "S&P Sales Revenue": "3904562.0",
-        "Nominal GDP": "26813.6",
-        "Sales Growth QoQ": "-0.035502599161269965",
-        "Sales": "2.7091272339493853",
-        "GDP Growth QoQ": "0.015343218315680529",
-        "GDP": "2.6807755909211797"
+        "Nominal GDP": "27164.36",
+        "Sales Growth QoQ": "-0.03249300752827433",
+        "Sales": "2.7091272339493857",
+        "GDP Growth QoQ": "0.016087210876821967",
+        "GDP": "2.7158439460197688"
     },
     {
         "Date": "2023-06-30",
         "S&P Sales Revenue": "3985640.0",
-        "Nominal GDP": "27063.01",
+        "Nominal GDP": "27453.82",
         "Sales Growth QoQ": "0.020764941112473068",
-        "Sales": "2.7653821014285414",
-        "GDP Growth QoQ": "0.009301623056956254",
-        "GDP": "2.705711154968218"
+        "Sales": "2.765382101428542",
+        "GDP Growth QoQ": "0.010655874093849382",
+        "GDP": "2.7447836371670986"
     },
     {
         "Date": "2023-09-30",
         "S&P Sales Revenue": "4071694.0",
-        "Nominal GDP": "27610.13",
+        "Nominal GDP": "27967.7",
         "Sales Growth QoQ": "0.021591011732118304",
-        "Sales": "2.825089498824275",
-        "GDP Growth QoQ": "0.02021652432600818",
-        "GDP": "2.7604112303517843"
+        "Sales": "2.8250894988242754",
+        "GDP Growth QoQ": "0.018717978044585415",
+        "GDP": "2.7961604370247297"
     },
     {
         "Date": "2023-12-31",
         "S&P Sales Revenue": "4233848.0",
-        "Nominal GDP": "27957.0",
+        "Nominal GDP": "28296.97",
         "Sales Growth QoQ": "0.03982470195451815",
-        "Sales": "2.937597846109791",
-        "GDP Growth QoQ": "0.012563142585710452",
-        "GDP": "2.7950906702338902"
+        "Sales": "2.9375978461097914",
+        "GDP Growth QoQ": "0.011773224112100689",
+        "GDP": "2.8290802605032113"
     },
     {
         "Date": "2024-03-31",
         "S&P Sales Revenue": "4078668.0",
-        "Nominal GDP": "28269.17",
+        "Nominal GDP": "28624.07",
         "Sales Growth QoQ": "-0.03665223692489672",
-        "Sales": "2.8299283138641087",
-        "GDP Growth QoQ": "0.011166076474586006",
-        "GDP": "2.8263008664111235"
+        "Sales": "2.829928313864109",
+        "GDP Growth QoQ": "0.011559541533952222",
+        "GDP": "2.8617831312773827"
     },
     {
         "Date": "2024-06-30",
         "S&P Sales Revenue": "4208784.0",
-        "Nominal GDP": "28652.34",
+        "Nominal GDP": "29016.71",
         "Sales Growth QoQ": "0.031901591401898965",
-        "Sales": "2.9202075306296664",
-        "GDP Growth QoQ": "0.013554342062395142",
-        "GDP": "2.8646095151257036"
+        "Sales": "2.920207530629667",
+        "GDP Growth QoQ": "0.013717126879580599",
+        "GDP": "2.901038573590958"
     },
     {
         "Date": "2024-09-30",
-        "S&P Sales Revenue": "4225363.0",
+        "S&P Sales Revenue": "4269795.0",
         "Nominal GDP": "",
-        "Sales Growth QoQ": "0.003939142517173533",
-        "Sales": "2.93171064427254",
+        "Sales Growth QoQ": "0.014496110990728006",
+        "Sales": "2.962539183109634",
         "GDP Growth QoQ": "0.0",
         "GDP": ""
     },
     {
         "Date": "2024-12-31",
-        "S&P Sales Revenue": "4426557.0",
+        "S&P Sales Revenue": "4421463.0",
         "Nominal GDP": "",
-        "Sales Growth QoQ": "0.04761579064331278",
-        "Sales": "3.071306364536993",
+        "Sales Growth QoQ": "0.03552114328673861",
+        "Sales": "3.067771961925449",
         "GDP Growth QoQ": "0.0",
         "GDP": ""
     },
     {
         "Date": "2025-03-31",
-        "S&P Sales Revenue": "4301190.0",
+        "S&P Sales Revenue": "4300297.0",
         "Nominal GDP": "",
-        "Sales Growth QoQ": "-0.028321560074794028",
-        "Sales": "2.9843221768256614",
+        "Sales Growth QoQ": "-0.027404051554881237",
+        "Sales": "2.983702580922225",
         "GDP Growth QoQ": "0.0",
         "GDP": ""
     },
     {
         "Date": "2025-06-30",
-        "S&P Sales Revenue": "4433384.0",
+        "S&P Sales Revenue": "4433265.0",
         "Nominal GDP": "",
-        "Sales Growth QoQ": "0.030734285162943298",
-        "Sales": "3.076043185626317",
+        "Sales Growth QoQ": "0.030920655015223453",
+        "Sales": "3.075960619094953",
         "GDP Growth QoQ": "0.0",
         "GDP": ""
     },
     {
         "Date": "2025-09-30",
-        "S&P Sales Revenue": "4539179.0",
+        "S&P Sales Revenue": "4541919.0",
         "Nominal GDP": "",
-        "Sales Growth QoQ": "0.023863261111602307",
-        "Sales": "3.1494476073554827",
+        "Sales Growth QoQ": "0.024508798819831368",
+        "Sales": "3.151348719086075",
         "GDP Growth QoQ": "0.0",
         "GDP": ""
     },
     {
         "Date": "2025-12-31",
-        "S&P Sales Revenue": "4706425.0",
+        "S&P Sales Revenue": "4709139.0",
         "Nominal GDP": "",
-        "Sales Growth QoQ": "0.03684498892861465",
-        "Sales": "3.2654889695797475",
+        "Sales Growth QoQ": "0.03681703702774097",
+        "Sales": "3.2673720415639913",
         "GDP Growth QoQ": "0.0",
         "GDP": ""
     },
     {
         "Date": "2026-03-31",
-        "S&P Sales Revenue": "4553574.0",
+        "S&P Sales Revenue": "4551998.0",
         "Nominal GDP": "",
-        "Sales Growth QoQ": "-0.03247709248527275",
-        "Sales": "3.1594353823050683",
+        "Sales Growth QoQ": "-0.033369369644854374",
+        "Sales": "3.15834189614178",
         "GDP Growth QoQ": "0.0",
         "GDP": ""
     }
